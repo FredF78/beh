@@ -2929,7 +2929,13 @@
 			"inriktningar": [{
 					"inriktningsnamn": "Teknik",
 					"inriktningskod": "tete",
-					"behorigheter": []
+					"behorigheter": [{
+						"A": []
+					}, {
+						"B": []
+					}, {
+						"C": []
+					}]
 				},
 				{
 					"inriktningsnamn": "Design/Info/Prod/Samhälle",
