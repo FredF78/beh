@@ -1,749 +1,744 @@
-[
-  {
-    "yrkeskod": "fysioterapeutsjukgymnast",
-    "kurser":     [
-      "Idh 1",
-      "Sh 1b/(1a1+1a2)",
-      "Ma 2a/2b/2c",
-      "Nk 2 alt-(Bi 1 +Ke 1 + Fy 1a/(1b1+ 1b2))"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Fysioterapeut/Sjukgymnast"
-  },
-  {
-    "yrkeskod": "hippolog",
-    "kurser":     [
-      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Hippolog"
-  },
-  {
-    "yrkeskod": "djursjukvardare",
-    "kurser":     [
-      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580806505846,
-    "yrke": "Djursjukskötare"
-  },
-  {
-    "yrkeskod": "rontgensjukskoterska",
-    "kurser":     [
-      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Röntgensjuksköterska"
-  },
-  {
-    "yrkeskod": "lantmastare",
-    "kurser":     [
-      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Lantmästare"
-  },
-  {
-    "yrkeskod": "logoped",
-    "kurser":     [
-      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Logoped"
-  },
-  {
-    "yrkeskod": "audionom",
-    "kurser":     [
-      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Audionom"
-  },
-  {
-    "yrkeskod": "arbetsterapeut",
-    "kurser":     [
-      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Arbetsterapeut"
-  },
-  {
-    "yrkeskod": "dietist",
-    "kurser":     [
-      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Dietist"
-  },
-  {
-    "yrkeskod": "tradgardsingenjor",
-    "kurser":     [
-      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Trädgårdsingenjör"
-  },
-  {
-    "yrkeskod": "landskapsingenjor",
-    "kurser":     [
-      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Landskapsingenjör"
-  },
-  {
-    "yrkeskod": "tandtekniker",
-    "kurser":     [
-      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Tandtekniker"
-  },
-  {
-    "yrkeskod": "tandhygienist",
-    "kurser":     [
-      "Nk 2 alt. (Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Tandhygienist"
-  },
-  {
-    "yrkeskod": "skogstekniker",
-    "kurser":     [
-      "Nk 2 alt. (Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Skogstekniker"
-  },
-  {
-    "yrkeskod": "skogsmastare",
-    "kurser":     [
-      "Nk 2 alt. (Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Skogsmästare"
-  },
-  {
-    "yrkeskod": "sjukskoterska",
-    "kurser":     [
-      "Nk 2 alt. (Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-      "Sh 1b(1a1)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Sjuksköterska"
-  },
-  {
-    "yrkeskod": "vetrinar",
-    "kurser":     [
-      "Ma 21/2b/2c",
-      "NK2"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Veterinär"
-  },
-  {
-    "yrkeskod": "apotekare",
-    "kurser":     [
-      "Ma 21/2b/2c",
-      "NK2"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Apotekare"
-  },
-  {
-    "yrkeskod": "tandlakare",
-    "kurser":     [
-      "Ma 21/2b/2c",
-      "NK2"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Tandläkare"
-  },
-  {
-    "yrkeskod": "optiker",
-    "kurser":     [
-      "Ma 2a/2b/2c",
-      "NK2"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Optiker"
-  },
-  {
-    "yrkeskod": "lakare",
-    "kurser":     [
-      "Ma 21/2b/2c",
-      "NK2"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Läkare"
-  },
-  {
-    "yrkeskod": "biomedicinskanalytiker",
-    "kurser":     [
-      "Fy 1a/(1b1+1b2)",
-      "Bi 2",
-      "Ke 2",
-      "Ma 3b/3c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Biomedicinsk analytiker"
-  },
-  {
-    "yrkeskod": "landskapsarkitekt2",
-    "kurser":     [
-      "Fy 1a/(1b1+1b2)",
-      "Bi 2",
-      "Ke 2",
+[{
+  "yrkeskod": "fysioterapeutsjukgymnast",
+  "kurser": [
+    "Idh 1",
+    "Sh 1b/(1a1+1a2)",
+    "Ma 2a/2b/2c",
+    "Nk 2 alt-(Bi 1 +Ke 1 + Fy 1a/(1b1+ 1b2))"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Fysioterapeut/Sjukgymnast"
+},
+{
+  "yrkeskod": "hippolog",
+  "kurser": [
+    "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Hippolog"
+},
+{
+  "yrkeskod": "djursjukvardare",
+  "kurser": [
+    "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580806505846,
+  "yrke": "Djursjukskötare"
+},
+{
+  "yrkeskod": "rontgensjukskoterska",
+  "kurser": [
+    "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Röntgensjuksköterska"
+},
+{
+  "yrkeskod": "lantmastare",
+  "kurser": [
+    "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Lantmästare"
+},
+{
+  "yrkeskod": "logoped",
+  "kurser": [
+    "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Logoped"
+},
+{
+  "yrkeskod": "audionom",
+  "kurser": [
+    "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Audionom"
+},
+{
+  "yrkeskod": "arbetsterapeut",
+  "kurser": [
+    "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Arbetsterapeut"
+},
+{
+  "yrkeskod": "dietist",
+  "kurser": [
+    "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Dietist"
+},
+{
+  "yrkeskod": "tradgardsingenjor",
+  "kurser": [
+    "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Trädgårdsingenjör"
+},
+{
+  "yrkeskod": "landskapsingenjor",
+  "kurser": [
+    "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Landskapsingenjör"
+},
+{
+  "yrkeskod": "tandtekniker",
+  "kurser": [
+    "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Tandtekniker"
+},
+{
+  "yrkeskod": "tandhygienist",
+  "kurser": [
+    "Nk 2 alt. (Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Tandhygienist"
+},
+{
+  "yrkeskod": "skogstekniker",
+  "kurser": [
+    "Nk 2 alt. (Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Skogstekniker"
+},
+{
+  "yrkeskod": "skogsmastare",
+  "kurser": [
+    "Nk 2 alt. (Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Skogsmästare"
+},
+{
+  "yrkeskod": "sjukskoterska",
+  "kurser": [
+    "Nk 2 alt. (Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
+    "Sh 1b(1a1)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Sjuksköterska"
+},
+{
+  "yrkeskod": "vetrinar",
+  "kurser": [
+    "Ma 21/2b/2c",
+    "NK2"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Vetrinär"
+},
+{
+  "yrkeskod": "apotekare",
+  "kurser": [
+    "Ma 21/2b/2c",
+    "NK2"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Apotekare"
+},
+{
+  "yrkeskod": "tandlakare",
+  "kurser": [
+    "Ma 21/2b/2c",
+    "NK2"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Tandläkare"
+},
+{
+  "yrkeskod": "optiker",
+  "kurser": [
+    "Ma 2a/2b/2c",
+    "NK2"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Optiker"
+},
+{
+  "yrkeskod": "lakare",
+  "kurser": [
+    "Ma 21/2b/2c",
+    "NK2"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Läkare"
+},
+{
+  "yrkeskod": "biomedicinskanalytiker",
+  "kurser": [
+    "Fy 1a/(1b1+1b2)",
+    "Bi 2",
+    "Ke 2",
+    "Ma 3b/3c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Biomedicinsk analytiker"
+},
+
+{
+  "yrkeskod": "receptarie",
+  "kurser": [
+    "Fy 1a/(1b1+1b2)",
+    "Bi 2",
+    "Ke 2",
+    "Ma 4"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Receptarie"
+},
+{
+  "yrkeskod": "jagmastare",
+  "kurser": [
+    "Fy 1a/(1b1+1b2)",
+    "Bi 2",
+    "Ke 2",
+    "Ma 4"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Jägmästare"
+},
+{
+  "yrkeskod": "hortonom",
+  "kurser": [
+    "Fy 1a/(1b1+1b2)",
+    "Bi 2",
+    "Ke 2",
+    "Ma 4"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Hortonom"
+},
+{
+  "yrkeskod": "sjukhusfysiker",
+  "kurser": [
+    "Bi 1",
+    "Fy 2",
+    "Ke 2",
+    "Ma 4"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Sjukhusfysiker"
+},
+{
+  "yrkeskod": "civilingenjor",
+  "yrkesalternatv": [{
+    "alternativkod": "civilingenjor1",
+    "kurser": [
+      "Ke 1",
+      "Fy 2",
       "Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Landskapsarkitekt"
-  },
-  {
-    "yrkeskod": "receptarie",
-    "kurser":     [
-      "Fy 1a/(1b1+1b2)",
-      "Bi 2",
-      "Ke 2",
-      "Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Receptarie"
-  },
-  {
-    "yrkeskod": "jagmastare",
-    "kurser":     [
-      "Fy 1a/(1b1+1b2)",
-      "Bi 2",
-      "Ke 2",
-      "Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Jägmästare"
-  },
-  {
-    "yrkeskod": "hortonom",
-    "kurser":     [
-      "Fy 1a/(1b1+1b2)",
-      "Bi 2",
-      "Ke 2",
-      "Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Hortonom"
-  },
-  {
-    "yrkeskod": "agronom2",
-    "kurser":     [
-      "Fy 1a/(1b1+1b2)",
-      "Bi 2",
-      "Ke 2",
-      "Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Agronom"
-  },
-  {
-    "yrkeskod": "sjukhusfysiker",
-    "kurser":     [
+    ]
+  }, {
+    "alternativkod": "civilingenjor2",
+    "kurser": [
       "Bi 1",
       "Fy 2",
       "Ke 2",
       "Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Sjukhusfysiker"
-  },
-  {
-    "yrkeskod": "civilingenjor2",
-    "kurser":     [
-      "Bi 1",
-      "Fy 2",
-      "Ke 2",
-      "Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Civilingenjör"
-  },
-  {
-    "yrkeskod": "civilingenjor",
-    "kurser":     [
-      "Ke 1",
-      "Fy 2",
-      "Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Civilingenjör"
-  },
-  {
-    "yrkeskod": "brandingenjor",
-    "kurser":     [
-      "Ke 1",
-      "Fy 2",
-      "Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Brandingenjör"
-  },
-  {
-    "yrkeskod": "ortopedingenjor",
-    "kurser":     [
-      "Ke 1",
-      "Fy 2",
-      "Ma 3c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ortopedingenjör"
-  },
-  {
-    "yrkeskod": "hogskoleingenjor",
-    "kurser":     [
-      "Ke 1",
-      "Fy 2",
-      "Ma 3c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Högskoleingenjör"
-  },
-  {
-    "yrkeskod": "sjoingenjorochmaskintekniker",
-    "kurser":     [
-      "Ma 3b/3c",
-      "Fy 1a/1b1"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Sjöingenjör och maskintekniker"
-  },
-  {
-    "yrkeskod": "sjokaptenochstyrman",
-    "kurser":     [
-      "Ma 3b/3c",
-      "Fy 1a/1b1"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Sjökapten och styrman"
-  },
-  {
-    "yrkeskod": "amneslarareteckensprak",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Sv. teckenspråk för hörande 3/motsv."
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Teckenspråk"
-  },
-  {
-    "yrkeskod": "amneslararemodersmal",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Modersmål 2/ motsv."
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Modersmål"
-  },
-  {
-    "yrkeskod": "amneslararegrekiska",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Klassisk grekiska - språk och kultur 2"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Grekiska"
-  },
-  {
-    "yrkeskod": "amneslararelatin",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Latin - Språk och kultur 2"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Latin"
-  },
-  {
-    "yrkeskod": "amneslararemodernasprak",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Moderna språk - aktuellt språk 3"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Moderna språk"
-  },
-  {
-    "yrkeskod": "amneslararereligion",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Hi 1b/(1a1+1a2)"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Religion"
-  },
-  {
-    "yrkeskod": "amneslararejuridik",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Hi 1b/(1a1+1a2)"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Juridik"
-  },
-  {
-    "yrkeskod": "amneslararehistoria",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Hi 1b/(1a1+1a2)"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Historia"
-  },
-  {
-    "yrkeskod": "amneslararefilosofi",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Hi 1b/(1a1+1a2)"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Filosofi"
-  },
-  {
-    "yrkeskod": "amneslararesamhallskunskap",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Ma 2a/2b/2c",
-      "Sh 2"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Samhällskunskap"
-  },
-  {
-    "yrkeskod": "amneslarareidrottochhalsa",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Idh 2/motsv. Ma 2a/2b/2c",
-      "Nk 2 alt.(Bi 1+ Ke 1+(Fy 1a /(1b1+ 1b2))"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Idrott och hälsa"
-  },
-  {
-    "yrkeskod": "amneslararepsykologi",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Psykologi"
-  },
-  {
-    "yrkeskod": "amneslararegeografi",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Geografi"
-  },
-  {
-    "yrkeskod": "amneslarareforetagsekonomi",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Ma 3b/3c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Företagsekonomi"
-  },
-  {
-    "yrkeskod": "amneslarareteknik79",
-    "kurser":     [
-      "Sh 2",
-      "Ma 2a/2b/2c",
-      "Nk 2 alt. (Bi 1+ Ke 1 + Fy 1a/(1b1+1b2))"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Teknik (7-9)"
-  },
-  {
-    "yrkeskod": "amneslararenaturkunskap",
-    "kurser":     [
-      "Sh 2",
-      "Ma 2a/2b/2c",
-      "Nk 2 alt. (Bi 1+ Ke 1 + Fy 1a/(1b1+1b2))"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Naturkunskap"
-  },
-  {
-    "yrkeskod": "amneslararematematik",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Matematik"
-  },
-  {
-    "yrkeskod": "amneslarareteknik",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Fy 2",
-      "Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Teknik (gym)"
-  },
-  {
-    "yrkeskod": "amneslararefysik",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Fy 2",
-      " Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Fysik"
-  },
-  {
-    "yrkeskod": "amneslararekemi",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Bi 1",
-      "Ke 2",
-      "Ma 4"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Kemi"
-  },
-  {
-    "yrkeskod": "amneslararebiologi",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Ke 1",
-      "Bi 2",
-      "Ma 3b/3c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Ämneslärare Biologi"
-  },
-  {
-    "yrkeskod": "grundlarare46",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Ma 2a/2b/2c",
-      "Nk 1b/(Nk 1a1+1a2)"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Grundlärare 4-6"
-  },
-  {
-    "yrkeskod": "grundlarare13",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Ma 2a/2b/2c",
-      "Nk 1b/(Nk 1a1+1a2)"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Grundlärare 1-3"
-  },
-  {
-    "yrkeskod": "grundlararefritidshem",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Nk 1b/(Nk 1a1+1a2) alt. (Bi 1+Ke 1+Fy 1a/(1b1+ 1b2))"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Grundlärare fritidshem"
-  },
-  {
-    "yrkeskod": "forskolelarare",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Nk 1b/(Nk 1a1+1a2) alt. (Bi 1+Ke 1+Fy 1a/(1b1+ 1b2))"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Förskollärare"
-  },
-  {
-    "yrkeskod": "studieochyrkesvagledare",
-    "kurser": ["Sh 1b/(1a1+1a2)"],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Studie-och yrkesvägledare"
-  },
-  {
-    "yrkeskod": "socionom",
-    "kurser":     [
-      "]Sh 1b/(Sh 1a1+1a2)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Socionom"
-  },
-  {
-    "yrkeskod": "psykolog",
-    "kurser":     [
-      "Sh 1b/(Sh 1a1+1a2)",
-      "Ma 2a/2b/2c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Psykolog"
-  },
-  {
-    "yrkeskod": "civilekonom2",
-    "kurser":     [
+    ]
+  }],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Civilingenjör"
+},
+{
+  "yrkeskod": "brandingenjor",
+  "kurser": [
+    "Ke 1",
+    "Fy 2",
+    "Ma 4"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Brandingenjör"
+},
+{
+  "yrkeskod": "ortopedingenjor",
+  "kurser": [
+    "Ke 1",
+    "Fy 2",
+    "Ma 3c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ortopedingenjör"
+},
+{
+  "yrkeskod": "hogskoleingenjor",
+  "kurser": [
+    "Ke 1",
+    "Fy 2",
+    "Ma 3c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Högskoleingenjör"
+},
+{
+  "yrkeskod": "sjoingenjorochmaskintekniker",
+  "kurser": [
+    "Ma 3b/3c",
+    "Fy 1a/1b1"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Sjöingenjör och maskintekniker"
+},
+{
+  "yrkeskod": "sjokaptenochstyrman",
+  "kurser": [
+    "Ma 3b/3c",
+    "Fy 1a/1b1"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Sjökapten och styrman"
+},
+{
+  "yrkeskod": "amneslarareteckensprak",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Sv. teckenspråk för hörande 3/motsv."
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Teckenspråk"
+},
+{
+  "yrkeskod": "amneslararemodersmal",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Modersmål 2/ motsv."
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Modersmål"
+},
+{
+  "yrkeskod": "amneslararegrekiska",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Klassisk grekiska - språk och kultur 2"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Grekiska"
+},
+{
+  "yrkeskod": "amneslararelatin",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Latin - Språk och kultur 2"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Latin"
+},
+{
+  "yrkeskod": "amneslararemodernasprak",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Moderna språk - aktuellt språk 3"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Moderna språk"
+},
+{
+  "yrkeskod": "amneslararereligion",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Hi 1b/(1a1+1a2)"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Religion"
+},
+{
+  "yrkeskod": "amneslararejuridik",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Hi 1b/(1a1+1a2)"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Juridik"
+},
+{
+  "yrkeskod": "amneslararehistoria",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Hi 1b/(1a1+1a2)"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Historia"
+},
+{
+  "yrkeskod": "amneslararefilosofi",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Hi 1b/(1a1+1a2)"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Filosofi"
+},
+{
+  "yrkeskod": "amneslararesamhallskunskap",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Ma 2a/2b/2c",
+    "Sh 2"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Samhällskunskap"
+},
+{
+  "yrkeskod": "amneslarareidrottochhalsa",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Idh 2/motsv. Ma 2a/2b/2c",
+    "Nk 2 alt.(Bi 1+ Ke 1+(Fy 1a /(1b1+ 1b2))"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Idrott och hälsa"
+},
+{
+  "yrkeskod": "amneslararepsykologi",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Psykologi"
+},
+{
+  "yrkeskod": "amneslararegeografi",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Geografi"
+},
+{
+  "yrkeskod": "amneslarareforetagsekonomi",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Ma 3b/3c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Företagsekonomi"
+},
+{
+  "yrkeskod": "amneslarareteknik79",
+  "kurser": [
+    "Sh 2",
+    "Ma 2a/2b/2c",
+    "Nk 2 alt. (Bi 1+ Ke 1 + Fy 1a/(1b1+1b2))"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Teknik (7-9)"
+},
+{
+  "yrkeskod": "amneslararenaturkunskap",
+  "kurser": [
+    "Sh 2",
+    "Ma 2a/2b/2c",
+    "Nk 2 alt. (Bi 1+ Ke 1 + Fy 1a/(1b1+1b2))"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Naturkunskap"
+},
+{
+  "yrkeskod": "amneslararematematik",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Ma 4"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Matematik"
+},
+{
+  "yrkeskod": "amneslarareteknik",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Fy 2",
+    "Ma 4"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Teknik (gym)"
+},
+{
+  "yrkeskod": "amneslararefysik",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Fy 2",
+    " Ma 4"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Fysik"
+},
+{
+  "yrkeskod": "amneslararekemi",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Bi 1",
+    "Ke 2",
+    "Ma 4"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Kemi"
+},
+{
+  "yrkeskod": "amneslararebiologi",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Ke 1",
+    "Bi 2",
+    "Ma 3b/3c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Ämneslärare Biologi"
+},
+{
+  "yrkeskod": "grundlarare46",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Ma 2a/2b/2c",
+    "Nk 1b/(Nk 1a1+1a2)"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Grundlärare 4-6"
+},
+{
+  "yrkeskod": "grundlarare13",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Ma 2a/2b/2c",
+    "Nk 1b/(Nk 1a1+1a2)"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Grundlärare 1-3"
+},
+{
+  "yrkeskod": "grundlararefritidshem",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Nk 1b/(Nk 1a1+1a2) alt. (Bi 1+Ke 1+Fy 1a/(1b1+ 1b2))"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Grundlärare fritidshem"
+},
+{
+  "yrkeskod": "forskolelarare",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Nk 1b/(Nk 1a1+1a2) alt. (Bi 1+Ke 1+Fy 1a/(1b1+ 1b2))"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Förskollärare"
+},
+{
+  "yrkeskod": "studieochyrkesvagledare",
+  "kurser": ["Sh 1b/(1a1+1a2)"],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Studie-och yrkesvägledare"
+},
+{
+  "yrkeskod": "socionom",
+  "kurser": [
+    "]Sh 1b/(Sh 1a1+1a2)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Socionom"
+},
+{
+  "yrkeskod": "psykolog",
+  "kurser": [
+    "Sh 1b/(Sh 1a1+1a2)",
+    "Ma 2a/2b/2c"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Psykolog"
+},
+{
+  "yrkeskod": "civilekonom",
+  "yrkesalternatv": [{
+    "kurser": [
       "Sh 1b/(1a1+1a2)",
       "Ma 3b/3c",
       "Moderna<br>språk (aktuellt språk 3)"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Civilekonom"
-  },
-  {
-    "yrkeskod": "civilekonom",
-    "kurser":     [
+    ]
+  }, {
+    "kurser": [
       "Sh 1b/(1a1+1a2)",
       "Ma 3b/3c"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Civilekonom"
-  },
-  {
-    "yrkeskod": "agronom",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Ma 3b/ 3c",
-      "Nk 2 alt.(Bi 1+Ke 1+Fy1a/(1b1+1b2))"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Agronom"
-  },
-  {
-    "yrkeskod": "arkitekt",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Ma 3b/ 3c",
-      "Nk 2 alt.(Bi 1+Ke 1+Fy1a/(1b1+1b2))"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Arkitekt"
-  },
-  {
-    "yrkeskod": "landskapsarkitekt",
-    "kurser":     [
-      "Sh 1b/(1a1+1a2)",
-      "Ma 3b/ 3c",
-      "Nk 2 alt.(Bi 1+Ke 1+Fy1a/(1b1+1b2))"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Landskapsarkitekt"
-  },
-  {
-    "yrkeskod": "utbildningarinomsprakomradet",
-    "kurser": ["Moderna språk - aktuellt språk 3"],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Utbildningar inom språkområdet"
-  },
-  {
-    "yrkeskod": "jurist",
-    "kurser":     [
-      "Hi 1b/(1a1+1a2)",
-      "Sh 1b/(1a1+1a2)"
-    ],
-    "grundlbeh": "true",
-    "dstimestamp": 1580728576032,
-    "yrke": "Jurist"
-  }
+    ]
+  }],
+
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Civilekonom"
+},
+{
+  "yrkeskod": "agronom",
+  "yrkesalternativ": [{
+      "kurser": [
+        "Sh 1b/(1a1+1a2)",
+        "Ma 3b/ 3c",
+        "Nk 2 alt.(Bi 1+Ke 1+Fy1a/(1b1+1b2))"
+      ]
+    },
+    {
+      "kurser": [
+        "Fy 1a/(1b1+1b2)",
+        "Bi 2",
+        "Ke 2",
+        "Ma 4"
+      ]
+    }
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Agronom"
+},
+{
+  "yrkeskod": "arkitekt",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)",
+    "Ma 3b/ 3c",
+    "Nk 2 alt.(Bi 1+Ke 1+Fy1a/(1b1+1b2))"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Arkitekt"
+},
+{
+  "yrkeskod": "landskapsarkitekt",
+  "yrkesalternativ": [{
+      "kurser": [
+        "Sh 1b/(1a1+1a2)",
+        "Ma 3b/ 3c",
+        "Nk 2 alt.(Bi 1+Ke 1+Fy1a/(1b1+1b2))"
+      ]
+    },
+    {
+      "kurser": [
+        "Fy 1a/(1b1+1b2)",
+        "Bi 2",
+        "Ke 2",
+        "Ma 4"
+      ]
+    }
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Landskapsarkitekt"
+},
+{
+  "yrkeskod": "utbildningarinomsprakomradet",
+  "kurser": ["Moderna språk - aktuellt språk 3"],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Utbildningar inom språkområdet"
+},
+{
+  "yrkeskod": "jurist",
+  "kurser": [
+    "Hi 1b/(1a1+1a2)",
+    "Sh 1b/(1a1+1a2)"
+  ],
+  "grundlbeh": "true",
+  "dstimestamp": 1580728576032,
+  "yrke": "Jurist"
+}
 ]

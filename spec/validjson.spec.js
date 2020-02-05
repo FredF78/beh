@@ -4,8 +4,8 @@ const _utbildningar = require('../datastore-competenceguide-programs-20200204-10
 const assert = require('assert');
 
 describe('behorighetsvisaren', () => {
-    it("should contain 70 yrken", () => {
-        expect(yrken.length).toBe(70);
+    it("should contain 66 main yrken", () => {
+        expect(yrken.length).toBe(66);
     });
    
     it("should contain correct utbildningar", () => {
@@ -23,7 +23,7 @@ describe('behorighetsvisaren', () => {
                 inriktningar.push(inr.inriktningskod)
             })
         });
-        expect(inriktningar.length).toBe(11);
+        expect(inriktningar.length).toBe(10);
     });
 
     it('should contain kursarray in every yrke', () => {
