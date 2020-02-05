@@ -46,6 +46,7 @@
             },
             {
               "yrkeskod": "landskapsarkitekt",
+              "alternativkod": "landskapsarkitekt1",
               "tillval": ["Nk 1+2"]
             }, {
               "yrkeskod": "landskapsarkitekt",
@@ -62,6 +63,7 @@
             },
             {
               "yrkeskod": "agronom",
+              "alternativkod": "agronom1",
               "tillval": ["Nk 1+2"]
             }, {
               "yrkeskod": "agronom",
@@ -186,19 +188,20 @@
             },
             {
               "yrkeskod": "civilingenjor",
-              "tillvalsalternativ": [{
-                "tillval": [
-                  "Fy ",
-                  "Ma 4"
-                ]
-              }, {
-                "tillval": [
-                  "Bi ",
-                  "Fy ",
-                  "Ke ",
-                  "Ma 4"
-                ]
-              }]
+              "alternativkod": "civilingenjor1",
+              "tillval": [
+                "Fy ",
+                "Ma 4"
+              ]
+            }, {
+              "yrkeskod": "civilingenjor",
+              "alternativkod": "civilingenjor2",
+              "tillval": [
+                "Bi ",
+                "Fy ",
+                "Ke ",
+                "Ma 4"
+              ]
             }, {
               "yrkeskod": "sjukhusfysiker",
               "tillval": [
@@ -429,6 +432,7 @@
             },
             {
               "yrkeskod": "landskapsarkitekt",
+              "alternativkod": "landskapsarkitekt1",
               "tillval": ["Nk 1+2"]
             },
             {
@@ -437,6 +441,7 @@
             },
             {
               "yrkeskod": "agronom",
+              "alternativkod": "agronom1",
               "tillval": ["Nk 1+2"]
             },
             {
@@ -755,6 +760,7 @@
             },
             {
               "yrkeskod": "landskapsarkitekt",
+              "alternativkod": "landskapsarkitekt1",
               "tillval": [
                 "Ma 3",
                 "Nk 2"
@@ -769,6 +775,7 @@
             },
             {
               "yrkeskod": "agronom",
+              "alternativkod": "agronom1",
               "tillval": [
                 "Ma 3",
                 "Nk 2"
@@ -964,6 +971,7 @@
             },
             {
               "yrkeskod": "civilingenjor",
+              "alternativkod": "civilingenjor1",
               "tillval": [
                 "Fy 1a/(1b1+1b2)",
                 "Fy 2",
@@ -1160,6 +1168,7 @@
             },
             {
               "yrkeskod": "landskapsarkitekt",
+              "alternativkod": "landskapsarkitekt1",
               "tillval": [
                 "Ma 3b",
                 "Nk 2"
@@ -1174,6 +1183,7 @@
             },
             {
               "yrkeskod": "agronom",
+              "alternativkod": "agronom1",
               "tillval": [
                 "Ma 3b",
                 "Nk 2"
@@ -1369,6 +1379,7 @@
             },
             {
               "yrkeskod": "civilingenjor",
+              "alternativkod": "civilingenjor1",
               "tillval": [
                 "Fy 1a/(1b1+1b2)",
                 "Fy 2",
@@ -1912,8 +1923,8 @@
 },
 {
   "inriktningar": [{
-    "inriktningsnamn": "Kultur",
-    "inriktningskod": "HUKUL",
+    "inriktningsnamn": "Samtliga",
+    "inriktningskod": "samtliga",
     "behorigheter": [{
         "kategori": "A",
         "yrken": [{
@@ -1950,6 +1961,7 @@
           },
           {
             "yrkeskod": "landskapsarkitekt",
+            "alternativkod": "landskapsarkitekt1",
             "tillval": [
               "Ma 2b+3",
               "Nk2"
@@ -1964,11 +1976,13 @@
           },
           {
             "yrkeskod": "agronom",
+            "alternativkod": "agronom1",
             "tillval": [
               "Ma 2b+3",
               "Nk2"
             ]
           },
+
           {
             "yrkeskod": "civilekonom",
             "tillval": ["Ma 2b+3b"]
@@ -2227,6 +2241,16 @@
           },
 
           {
+            "yrkeskod": "landskapsarkitekt",
+            "alternativkod": "landskapsarkitekt2"
+          },
+          {
+            "yrkeskod": "agronom",
+            "alternativkod": "agronom2"
+
+          },
+
+          {
             "yrkeskod": "biomedicinskanalytiker"
           },
           {
@@ -2294,6 +2318,7 @@
           },
           {
             "yrkeskod": "landskapsarkitekt",
+            "alternativkod": "landskapsarkitekt1",
             "tillval": [
               "Ma 2b+3b",
               "Nk2"
@@ -2308,6 +2333,7 @@
           },
           {
             "yrkeskod": "agronom",
+            "alternativkod": "agronom1",
             "tillval": [
               "Ma 2b+3b",
               "Nk2"
@@ -2583,6 +2609,14 @@
           },
           {
             "yrkeskod": "veterinar"
+          },
+          {
+            "yrkeskod": "agronom",
+            "alternativkod": "agronom2"
+          },
+          {
+            "yrkeskod": "landskapsarkitekt",
+            "alternativkod": "landskapsarkitekt2"
           }
         ]
       }
@@ -2662,6 +2696,7 @@
             },
             {
               "yrkeskod": "landskapsarkitekt",
+              "alternativkod": "landskapsarkitekt1",
               "tillval": [
                 "Nk 2",
                 "Ma b"
@@ -2673,6 +2708,7 @@
             },
             {
               "yrkeskod": "agronom",
+              "alternativkod": "agronom1",
               "tillval": ["Nk 2"]
             },
             {
@@ -2910,6 +2946,7 @@
             },
             {
               "yrkeskod": "landskapsarkitekt",
+              "alternativkod": "landskapsarkitekt1",
               "tillval": [
                 "Ma 3b",
                 "Nk 2"
@@ -2924,6 +2961,7 @@
             },
             {
               "yrkeskod": "agronom",
+              "alternativkod": "agronom1",
               "tillval": [
                 "Ma 3b",
                 "Nk 2"
