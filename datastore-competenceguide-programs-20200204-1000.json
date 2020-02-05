@@ -52,7 +52,7 @@
               "yrkeskod": "landskapsarkitekt",
               "alternativkod": "landskapsarkitekt2",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke ",
                 "Ma 4"
               ]
@@ -69,7 +69,7 @@
               "yrkeskod": "agronom",
               "alternativkod": "agronom2",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke ",
                 "Ma 4"
               ]
@@ -105,14 +105,14 @@
             {
               "yrkeskod": "amneslararefysik",
               "tillval": [
-                "Fy ",
+                "Fy 2",
                 "Ma 4"
               ]
             },
             {
               "yrkeskod": "amneslarareteknik",
               "tillval": [
-                "Fy ",
+                "Fy 2",
                 "Ma 4"
               ]
             },
@@ -182,7 +182,7 @@
             {
               "yrkeskod": "brandingenjor",
               "tillval": [
-                "Fy ",
+                "Fy 2",
                 "Ma 4"
               ]
             },
@@ -190,24 +190,24 @@
               "yrkeskod": "civilingenjor",
               "alternativkod": "civilingenjor1",
               "tillval": [
-                "Fy ",
+                "Fy 2",
                 "Ma 4"
               ]
             }, {
               "yrkeskod": "civilingenjor",
               "alternativkod": "civilingenjor2",
               "tillval": [
-                "Bi ",
-                "Fy ",
-                "Ke ",
+                "Bi 1",
+                "Fy 2",
+                "Ke 2",
                 "Ma 4"
               ]
             }, {
               "yrkeskod": "sjukhusfysiker",
               "tillval": [
-                "Bi ",
-                "Fy ",
-                "Ke ",
+                "Bi 1",
+                "Fy 2",
+                "Ke 2",
                 "Ma 4"
               ]
             },
@@ -215,24 +215,24 @@
             {
               "yrkeskod": "hortonom",
               "tillval": [
-                "Bi 1+",
-                "Ke ",
+                "Bi 1+2",
+                "Ke 2",
                 "Ma 4"
               ]
             },
             {
               "yrkeskod": "jagmastare",
               "tillval": [
-                "Bi 1+",
-                "Ke ",
+                "Bi 1+2",
+                "Ke 2",
                 "Ma 4"
               ]
             },
             {
               "yrkeskod": "receptarie",
               "tillval": [
-                "Bi 1+",
-                "Ke ",
+                "Bi 1+2",
+                "Ke 2",
                 "Ma 4"
               ]
             },
@@ -240,52 +240,52 @@
             {
               "yrkeskod": "biomedicinskanalytiker",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke 2"
               ]
             },
             {
               "yrkeskod": "lakare",
               "tillval": [
-                "Bi 1+",
-                "Fy ",
-                "Ke ",
+                "Bi 1+2",
+                "Fy 2",
+                "Ke 2",
                 "Ma 4"
               ]
             },
             {
               "yrkeskod": "optiker",
               "tillval": [
-                "Bi 1+",
-                "Fy ",
-                "Ke ",
+                "Bi 1+2",
+                "Fy 2",
+                "Ke 2",
                 "Ma 4"
               ]
             },
             {
               "yrkeskod": "tandlakare",
               "tillval": [
-                "Bi 1+",
-                "Fy ",
-                "Ke ",
+                "Bi 1+2",
+                "Fy 2",
+                "Ke 2",
                 "Ma 4"
               ]
             },
             {
               "yrkeskod": "apotekare",
               "tillval": [
-                "Bi 1+",
-                "Fy ",
-                "Ke ",
+                "Bi 1+2",
+                "Fy 2",
+                "Ke 2",
                 "Ma 4"
               ]
             },
             {
               "yrkeskod": "veterinar",
               "tillval": [
-                "Bi 1+",
-                "Fy ",
-                "Ke ",
+                "Bi 1+2",
+                "Fy 2",
+                "Ke 2",
                 "Ma 4"
               ]
             },
@@ -541,28 +541,28 @@
               "yrkeskod": "agronom",
               "alternativkod": "agronom2",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke 2"
               ]
             },
             {
               "yrkeskod": "hortonom",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke 2"
               ]
             },
             {
               "yrkeskod": "jagmastare",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke 2"
               ]
             },
             {
               "yrkeskod": "receptarie",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke 2"
               ]
             },
@@ -570,49 +570,49 @@
               "yrkeskod": "landskapsarkitekt",
               "alternativkod": "landskapsarkitekt2",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke 2"
               ]
             },
             {
               "yrkeskod": "biomedicinskanalytiker",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke 2"
               ]
             },
             {
               "yrkeskod": "lakare",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke 2"
               ]
             },
             {
               "yrkeskod": "Aoptiker13",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke 2"
               ]
             },
             {
               "yrkeskod": "tandlakare",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke 2"
               ]
             },
             {
               "yrkeskod": "apotekare",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke 2"
               ]
             },
             {
               "yrkeskod": "veterinar",
               "tillval": [
-                "Bi 1+",
+                "Bi 1+2",
                 "Ke 2"
               ]
             },
@@ -788,16 +788,16 @@
             {
               "yrkeskod": "amneslararebiologi",
               "tillval": [
-                "Ke ",
-                "Bi 1+",
+                "Ke 1",
+                "Bi 1+2",
                 "Ma 3b"
               ]
             },
             {
               "yrkeskod": "amneslararekemi",
               "tillval": [
-                "Bi ",
-                "Ke 1+",
+                "Bi 1",
+                "Ke 1+2",
                 "Ma 3b+4"
               ]
             },
@@ -826,7 +826,7 @@
             {
               "yrkeskod": "amneslarareidrottochhalsa",
               "tillval": [
-                "Idh ",
+                "Idh 2",
                 "Nk 2"
               ]
             },
