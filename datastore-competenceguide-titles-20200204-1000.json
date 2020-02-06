@@ -652,23 +652,15 @@
 },
 {
   "yrkeskod": "civilekonom",
-  "yrkesalternatv": [{
-    "kurser": [
-      "Sh 1b/(1a1+1a2)",
-      "Ma 3b/3c",
-      "Moderna<br>språk (aktuellt språk 3)"
-    ]
-  }, {
     "kurser": [
       "Sh 1b/(1a1+1a2)",
       "Ma 3b/3c"
     ]
-  }],
-
+  ,
   "grundlbeh": "true",
-  
   "yrke": "Civilekonom"
 },
+
 {
   "yrkeskod": "agronom",
   "yrkesalternativ": [{
