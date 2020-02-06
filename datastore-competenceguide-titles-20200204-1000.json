@@ -288,7 +288,7 @@
 },
 {
   "yrkeskod": "civilingenjor",
-  "yrkesalternatv": [{
+  "yrkesalternativ": [{
     "alternativkod": "civilingenjor1",
     "kurser": [
       "Ke 1",
@@ -672,6 +672,7 @@
 {
   "yrkeskod": "agronom",
   "yrkesalternativ": [{
+    "alternativkod": "agronom1",
       "kurser": [
         "Sh 1b/(1a1+1a2)",
         "Ma 3b/ 3c",
@@ -679,6 +680,7 @@
       ]
     },
     {
+      "alternativkod": "agronom2",
       "kurser": [
         "Fy 1a/(1b1+1b2)",
         "Bi 2",
@@ -705,6 +707,7 @@
 {
   "yrkeskod": "landskapsarkitekt",
   "yrkesalternativ": [{
+      "alternativkod": "landskapsarkitekt1",
       "kurser": [
         "Sh 1b/(1a1+1a2)",
         "Ma 3b/ 3c",
@@ -712,6 +715,7 @@
       ]
     },
     {
+      "alternativkod": "landskapsarkitekt2",
       "kurser": [
         "Fy 1a/(1b1+1b2)",
         "Bi 2",

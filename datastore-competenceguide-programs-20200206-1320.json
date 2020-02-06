@@ -589,7 +589,7 @@
               ]
             },
             {
-              "yrkeskod": "Aoptiker13",
+              "yrkeskod": "optiker",
               "tillval": [
                 "Bi 1+2",
                 "Ke 2"
@@ -1325,6 +1325,15 @@
             {
               "yrkeskod": "fysioterapeutsjukgymnast",
               "tillval": ["Nk 2"]
+            },
+            {
+              
+              "yrkeskod": "tradgardsingenjor",
+            
+        
+              "tillval": [
+                "Nk 2"
+              ]
             }
           ]
         },
