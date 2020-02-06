@@ -1974,8 +1974,8 @@
             },
             {
 
-              "yrkeskod": "civilingenjor2",
-
+              "yrkeskod": "civilingenjor",
+              "alternativkod": "civilingenjor2",
               "grundlbeh": "true",
               "tillval": [
                 "Fy ",
@@ -1996,8 +1996,8 @@
             },
             {
 
-              "yrkeskod": "agronom2",
-
+              "yrkeskod": "agronom",
+              "alternativkod": "agronom2",
               "grundlbeh": "true",
               "tillval": [
                 "Bi ",
@@ -2040,8 +2040,8 @@
             },
             {
 
-              "yrkeskod": "landskapsarkitekt2",
-
+              "yrkeskod": "landskapsarkitekt",
+              "alternativkod":  "landskapsarkitekt2",
               "grundlbeh": "true",
               "tillval": [
                 "Bi ",
@@ -2515,8 +2515,9 @@
             ]
           },
           {
-            "yrkeskod": "civilingenjor2",
-            "qualification": "C",
+            "yrkeskod": "civilingenjor",
+            "alternativkod": "civilingenjor2",
+           
             "grundlbeh": "true",
             "tillval": [
               "Fy 1a/(1b1+1b2",
@@ -3006,8 +3007,9 @@
           },
           {
 
-            "yrkeskod": "civilingenjor2",
-            "qualification": "C",
+            "yrkeskod": "civilingenjor",
+            "alternativkod":"civilingenjor2",
+            
             "grundlbeh": "true",
             "tillval": [
               "Fy 1a/(1b1+1b2)",
