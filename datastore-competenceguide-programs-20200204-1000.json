@@ -589,7 +589,7 @@
               ]
             },
             {
-              "yrkeskod": "optiker",
+              "yrkeskod": "Aoptiker13",
               "tillval": [
                 "Bi 1+2",
                 "Ke 2"
@@ -1325,15 +1325,6 @@
             {
               "yrkeskod": "fysioterapeutsjukgymnast",
               "tillval": ["Nk 2"]
-            },
-            {
-              
-              "yrkeskod": "tradgardsingenjor",
-            
-        
-              "tillval": [
-                "Nk 2"
-              ]
             }
           ]
         },
@@ -1544,23 +1535,13 @@
               "yrkeskod": "jurist"
             },
             {
-              "yrkeskod": "landskapsarkitekt",
-              "alternativkod": "landskapsarkitekt1"
-            },
-            {
-              "yrkeskod": "landskapsarkitekt",
-              "alternativkod": "landskapsarkitekt2"
+              "yrkeskod": "landskapsarkitekt"
             },
             {
               "yrkeskod": "arkitekt"
             },
             {
-              "yrkeskod": "agronom",
-              "alternativkod": "agronom1"
-            },
-            {
-              "yrkeskod": "agronom",
-              "alternativkod": "agronom2"
+              "yrkeskod": "agronom"
             },
             {
               "yrkeskod": "civilekonom"
@@ -1644,12 +1625,7 @@
               "yrkeskod": "brandingenjor"
             },
             {
-              "yrkeskod": "civilingenjor",
-              "alternativkod": "civilingenjor1"
-            },
-            {
-              "yrkeskod": "civilingenjor",
-              "alternativkod": "civilingenjor2"
+              "yrkeskod": "civilingenjor"
             },
 
             {
@@ -2146,6 +2122,10 @@
             {
               "yrkeskod": "amneslarareidrottochhalsa",
               "tillval": ["Idh 2"]
+            },
+            {
+              "yrkeskod": "amneslararesamhallskunskap",
+              "tillval": ["Sh 2"]
             },
             {
               "yrkeskod": "amneslararemodernasprak",
@@ -3607,6 +3587,9 @@
             },
             {
               "yrkeskod": "grundlarare46"
+            },
+            {
+              "yrkeskod": "amneslarareforetagsekonomi"
             },
             {
               "yrkeskod": "amneslararegeografi"

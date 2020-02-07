@@ -45,10 +45,9 @@ describe('behorighetsvisaren', () => {
 
          function assertBehorigheter() {
              _utbildningar.map(utb => {
-                console.log(utb.programkod);
                 utb.inriktningar.map(inr => {
                     const actualYrken = [];
-                    //console.log(inr.behorigheter[1]['kategori']);
+                    
                     assert(inr.behorigheter[0]['kategori'] ==='A');
                     assert(inr.behorigheter[1]['kategori'] === 'B');
                     assert(inr.behorigheter[2]['kategori'] === 'C');
@@ -61,8 +60,7 @@ describe('behorighetsvisaren', () => {
                     inr.behorigheter[2]['yrken'].map(yrke => {
                         actualYrken.push(yrke.yrkeskod);
                     });
-                    
-                    assert(yrken.length === 66);
+                    assert(actualYrken.length === 69);
                 });
             });
          }
