@@ -1329,8 +1329,6 @@
             {
               
               "yrkeskod": "tradgardsingenjor",
-            
-        
               "tillval": [
                 "Nk 2"
               ]
@@ -1682,9 +1680,6 @@
               "yrkeskod": "apotekare"
             },
             {
-              "yrkeskod": "veterinar"
-            },
-            {
               "yrkeskod": "sjukskoterska"
             },
             {
@@ -1773,12 +1768,21 @@
             "tillval": [
               "Svenskt teckenspråk för hörande 1+2+3"
             ]
+          },{
+            "yrkeskod": "veterinar",
+            "tillval": [
+              "Bi 1+2",
+              "Fy 1a/(1b1+1b2)",
+              "Fy 2",
+              "Ke 1+2",
+              "Ma 4"
+            ]
           }]
         }
       ]
     },
     {
-      "inriktningsnamn": "Naturvetenskap",
+      "inriktningsnamn": "Naturvetenskap och samhälle",
       "inriktningskod": "NASAM",
       "behorigheter": [{
           "kategori": "A",
@@ -1786,13 +1790,15 @@
               "yrkeskod": "jurist"
             },
             {
-              "yrkeskod": "landskapsarkitekt"
+              "yrkeskod": "landskapsarkitekt",
+              "alternativkod": "landskapsarkitekt1"
             },
             {
               "yrkeskod": "arkitekt"
             },
             {
-              "yrkeskod": "agronom"
+              "yrkeskod": "agronom",
+              "alternativkod": "agronom1"
             },
             {
               "yrkeskod": "civilekonom"
@@ -1989,6 +1995,7 @@
             {
 
               "yrkeskod": "civilingenjor",
+              "alternativkod": "civilingenjor1",
 
               "grundlbeh": "true",
               "tillval": [
@@ -2133,7 +2140,7 @@
             },
             {
 
-              "yrkeskod": "vetrinar",
+              "yrkeskod": "veterinar",
 
               "grundlbeh": "true",
               "tillval": [
@@ -2526,6 +2533,7 @@
           },
           {
             "yrkeskod": "civilingenjor",
+            "alternativkod": "civilingenjor1",
             "tillval": [
               "Fy 1a/(1b1+1b2",
               "Fy ",
@@ -3286,10 +3294,6 @@
               "tillval": ["Modersmål 1+2"]
             },
             {
-              "yrkeskod": "amneslarareteckensprak",
-              "tillval": ["Svenskt teckenspråk för hörande 1+2+3"]
-            },
-            {
               "yrkeskod": "sjokaptenochstyrman",
               "tillval": ["Fy 1a/1b1"]
             },
@@ -3574,6 +3578,10 @@
                 "Ke 1+2",
                 "Ma 4"
               ]
+            },
+            {
+              "yrkeskod": "amneslarareteckensprak",
+              "tillval": ["Svenskt teckenspråk för hörande 1+2+3"]
             }
           ]
         }
