@@ -178,8 +178,10 @@
 {
   "yrkeskod": "vetrinar",
   "kurser": [
-    "Ma 21/2b/2c",
-    "NK2"
+    "Fy 2",
+    "Bi 2",
+    "Ke 2",
+    "Ma 4"
   ],
   "grundlbeh": "true",
   
@@ -188,8 +190,10 @@
 {
   "yrkeskod": "apotekare",
   "kurser": [
-    "Ma 21/2b/2c",
-    "NK2"
+    "Fy 2",
+    "Bi 2",
+    "Ke 2",
+    "Ma 4"
   ],
   "grundlbeh": "true",
   
@@ -198,8 +202,10 @@
 {
   "yrkeskod": "tandlakare",
   "kurser": [
-    "Ma 21/2b/2c",
-    "NK2"
+    "Fy 2",
+    "Bi 2",
+    "Ke 2",
+    "Ma 4"
   ],
   "grundlbeh": "true",
   
@@ -218,8 +224,10 @@
 {
   "yrkeskod": "lakare",
   "kurser": [
-    "Ma 21/2b/2c",
-    "NK2"
+    "Fy 2",
+    "Bi 2",
+    "Ke 2",
+    "Ma 4"
   ],
   "grundlbeh": "true",
   
@@ -633,7 +641,7 @@
 {
   "yrkeskod": "socionom",
   "kurser": [
-    "]Sh 1b/(Sh 1a1+1a2)",
+    "Sh 1b/(Sh 1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
