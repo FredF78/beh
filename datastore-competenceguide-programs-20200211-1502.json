@@ -1726,6 +1726,9 @@
             },
             {
               "yrkeskod": "fysioterapeutsjukgymnast"
+            },
+            {
+              "yrkeskod": "veterinar"
             }
           ]
         },
@@ -1767,15 +1770,6 @@
             "yrkeskod": "amneslarareteckensprak",
             "tillval": [
               "Svenskt teckenspråk för hörande 1+2+3"
-            ]
-          },{
-            "yrkeskod": "veterinar",
-            "tillval": [
-              "Bi 1+2",
-              "Fy 1a/(1b1+1b2)",
-              "Fy 2",
-              "Ke 1+2",
-              "Ma 4"
             ]
           }]
         }

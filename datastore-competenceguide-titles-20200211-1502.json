@@ -14,7 +14,7 @@
   "yrkeskod": "hippolog",
   "kurser": [
     "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -25,7 +25,7 @@
   "yrkeskod": "djursjukvardare",
   "kurser": [
     "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -36,7 +36,7 @@
   "yrkeskod": "rontgensjukskoterska",
   "kurser": [
     "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -47,7 +47,7 @@
   "yrkeskod": "lantmastare",
   "kurser": [
     "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -58,7 +58,7 @@
   "yrkeskod": "logoped",
   "kurser": [
     "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -69,7 +69,7 @@
   "yrkeskod": "audionom",
   "kurser": [
     "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -80,7 +80,7 @@
   "yrkeskod": "arbetsterapeut",
   "kurser": [
     "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "Sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -91,7 +91,7 @@
   "yrkeskod": "dietist",
   "kurser": [
     "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -102,7 +102,7 @@
   "yrkeskod": "tradgardsingenjor",
   "kurser": [
     "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -113,7 +113,7 @@
   "yrkeskod": "landskapsingenjor",
   "kurser": [
     "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -124,7 +124,7 @@
   "yrkeskod": "tandtekniker",
   "kurser": [
     "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -135,7 +135,7 @@
   "yrkeskod": "tandhygienist",
   "kurser": [
     "Nk 2 alt. (Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -168,7 +168,7 @@
   "yrkeskod": "sjukskoterska",
   "kurser": [
     "Nk 2 alt. (Bi 1+Ke 1+ Fy 1a/(1b1+ 1b2))",
-    "Sh 1b(1a1)",
+    "sh 1b(1a1+1a2)",
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
@@ -594,7 +594,7 @@
   "kurser": [
     "Sh 1b/(1a1+1a2)",
     "Ma 2a/2b/2c",
-    "Nk 1b/(Nk 1a1+1a2)"
+    "Nk 1b/(Nk 1a1+1a2) alt. (Bi 1+Ke 1+Fy 1a/(1b1+ 1b2)"
   ],
   "grundlbeh": "true",
   
@@ -605,7 +605,7 @@
   "kurser": [
     "Sh 1b/(1a1+1a2)",
     "Ma 2a/2b/2c",
-    "Nk 1b/(Nk 1a1+1a2)"
+    "Nk 1b/(Nk 1a1+1a2) alt. (Bi 1+Ke 1+Fy 1a/(1b1+ 1b2)"
   ],
   "grundlbeh": "true",
   
