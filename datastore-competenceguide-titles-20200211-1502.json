@@ -594,7 +594,7 @@
   "kurser": [
     "Sh 1b/(1a1+1a2)",
     "Ma 2a/2b/2c",
-    "Nk 1b/(Nk 1a1+1a2) alt. (Bi 1+Ke 1+Fy 1a/(1b1+ 1b2)"
+    "Nk 1b/(Nk 1a1+1a2)"
   ],
   "grundlbeh": "true",
   
@@ -605,7 +605,7 @@
   "kurser": [
     "Sh 1b/(1a1+1a2)",
     "Ma 2a/2b/2c",
-    "Nk 1b/(Nk 1a1+1a2) alt. (Bi 1+Ke 1+Fy 1a/(1b1+ 1b2)"
+    "Nk 1b/(Nk 1a1+1a2)"
   ],
   "grundlbeh": "true",
   
@@ -615,7 +615,7 @@
   "yrkeskod": "grundlararefritidshem",
   "kurser": [
     "Sh 1b/(1a1+1a2)",
-    "Nk 1b/(Nk 1a1+1a2) alt. (Bi 1+Ke 1+Fy 1a/(1b1+ 1b2))"
+    "Nk 1b/(Nk 1a1+1a2)"
   ],
   "grundlbeh": "true",
   
@@ -625,7 +625,7 @@
   "yrkeskod": "forskolelarare",
   "kurser": [
     "Sh 1b/(1a1+1a2)",
-    "Nk 1b/(Nk 1a1+1a2) alt. (Bi 1+Ke 1+Fy 1a/(1b1+ 1b2))"
+    "Nk 1b/(Nk 1a1+1a2)"
   ],
   "grundlbeh": "true",
   
