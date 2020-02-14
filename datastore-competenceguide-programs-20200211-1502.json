@@ -48,14 +48,6 @@
               "yrkeskod": "landskapsarkitekt",
               "alternativkod": "landskapsarkitekt1",
               "tillval": ["Nk 1+2"]
-            }, {
-              "yrkeskod": "landskapsarkitekt",
-              "alternativkod": "landskapsarkitekt2",
-              "tillval": [
-                "Bi 1+2",
-                "Ke 2",
-                "Ma 4"
-              ]
             },
             {
               "yrkeskod": "arkitekt",
@@ -566,14 +558,7 @@
                 "Ke 2"
               ]
             },
-            {
-              "yrkeskod": "landskapsarkitekt",
-              "alternativkod": "landskapsarkitekt2",
-              "tillval": [
-                "Bi 1+2",
-                "Ke 2"
-              ]
-            },
+          
             {
               "yrkeskod": "biomedicinskanalytiker",
               "tillval": [
@@ -1037,16 +1022,7 @@
                 "Ma 3b+4"
               ]
             },
-            {
-              "yrkeskod": "landskapsarkitekt",
-              "alternativkod": "landskapsarkitekt2",
-              "tillval": [
-                "Fy 1a/(1b1+1b2)",
-                "Bi 1+2",
-                "Ke 1+2",
-                "Ma 3b+4"
-              ]
-            },
+            
             {
               "yrkeskod": "biomedicinskanalytiker",
               "tillval": [
@@ -1452,16 +1428,7 @@
                 "Ma 3b+4"
               ]
             },
-            {
-              "yrkeskod": "landskapsarkitekt",
-              "alternativkod": "landskapsarkitekt2",
-              "tillval": [
-                "Fy 1a/(1b1+1b2)",
-                "Bi 1+2",
-                "Ke 1+2",
-                "Ma 3b+4"
-              ]
-            },
+            
             {
               "yrkeskod": "biomedicinskanalytiker",
               "tillval": [
@@ -1545,10 +1512,7 @@
               "yrkeskod": "landskapsarkitekt",
               "alternativkod": "landskapsarkitekt1"
             },
-            {
-              "yrkeskod": "landskapsarkitekt",
-              "alternativkod": "landskapsarkitekt2"
-            },
+            
             {
               "yrkeskod": "arkitekt"
             },
@@ -2063,17 +2027,7 @@
                 "Ma 4"
               ]
             },
-            {
-
-              "yrkeskod": "landskapsarkitekt",
-              "alternativkod":  "landskapsarkitekt2",
-              "grundlbeh": "true",
-              "tillval": [
-                "Bi 2",
-                "Ke 2",
-                "Ma 4"
-              ]
-            },
+            
             {
 
               "yrkeskod": "biomedicinskanalytiker",
@@ -2579,17 +2533,6 @@
           },
           {
             "yrkeskod": "receptarie",
-            "tillval": [
-              "Fy 1a/(1b1+1b2",
-              "Bi 1+1",
-              "Ke 1+2",
-              "Ma 2b+3b+4"
-            ]
-          },
-
-          {
-            "yrkeskod": "landskapsarkitekt",
-            "alternativkod": "landskapsarkitekt2",
             "tillval": [
               "Fy 1a/(1b1+1b2",
               "Bi 1+1",
@@ -3147,16 +3090,6 @@
               "Ke 1+2",
               "Ma 2b+3b+4"
             ]
-          },
-          {
-            "yrkeskod": "landskapsarkitekt",
-            "alternativkod": "landskapsarkitekt2",
-            "tillval": [
-              "Fy 1a/(1b1+1b2)",
-              "Bi 1+2",
-              "Ke 1+2",
-              "Ma 2b+3b+4"
-            ]
           }
         ]
       }
@@ -3498,19 +3431,6 @@
                 "Ma 4"
               ]
             },
-            {
-
-              "yrkeskod": "landskapsarkitekt",
-              "alternativkod": "landskapsarkitekt2",
-              "grundlbeh": "true",
-              "tillval": [
-                "Bi 1+2",
-                "Fy 1a/(1b1+1b2)",
-                "Ke 1+2",
-                "Ma 4"
-              ]
-            },
-
             {
               "yrkeskod": "biomedicinskanalytiker",
               "tillval": [
@@ -3920,18 +3840,6 @@
             },
             {
               "yrkeskod": "receptarie",
-              "tillval": [
-                "Fy 1a/(1b1+1b2)",
-                "Bi 1+2",
-                "Ke 1+2",
-                "Ma 3b+4"
-              ]
-            },
-            {
-
-              "yrkeskod": "landskapsarkitekt",
-              "alterantivkod": "landskapsarkitekt2",
-              "grundlbeh": "true",
               "tillval": [
                 "Fy 1a/(1b1+1b2)",
                 "Bi 1+2",

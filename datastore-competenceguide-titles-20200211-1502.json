@@ -1,3 +1,4 @@
+
 [{
   "yrkeskod": "fysioterapeutsjukgymnast",
   "kurser": [
@@ -7,7 +8,7 @@
     "Nk 2 alt-(Bi 1 +Ke 1 + Fy 1a/(1b1+ 1b2))"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Fysioterapeut/Sjukgymnast"
 },
 {
@@ -18,7 +19,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Hippolog"
 },
 {
@@ -29,7 +30,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Djursjukskötare"
 },
 {
@@ -40,7 +41,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Röntgensjuksköterska"
 },
 {
@@ -51,7 +52,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Lantmästare"
 },
 {
@@ -62,7 +63,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Logoped"
 },
 {
@@ -73,7 +74,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Audionom"
 },
 {
@@ -84,7 +85,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Arbetsterapeut"
 },
 {
@@ -95,7 +96,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Dietist"
 },
 {
@@ -106,7 +107,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Trädgårdsingenjör"
 },
 {
@@ -117,7 +118,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Landskapsingenjör"
 },
 {
@@ -128,7 +129,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Tandtekniker"
 },
 {
@@ -139,7 +140,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Tandhygienist"
 },
 {
@@ -150,7 +151,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Skogstekniker"
 },
 {
@@ -161,7 +162,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Skogsmästare"
 },
 {
@@ -172,11 +173,11 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Sjuksköterska"
 },
 {
-  "yrkeskod": "vetrinar",
+  "yrkeskod": "veterinar",
   "kurser": [
     "Fy 2",
     "Bi 2",
@@ -184,8 +185,8 @@
     "Ma 4"
   ],
   "grundlbeh": "true",
-  
-  "yrke": "Vetrinär"
+
+  "yrke": "Veterinär"
 },
 {
   "yrkeskod": "apotekare",
@@ -196,7 +197,7 @@
     "Ma 4"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Apotekare"
 },
 {
@@ -208,7 +209,7 @@
     "Ma 4"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Tandläkare"
 },
 {
@@ -218,7 +219,7 @@
     "NK2"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Optiker"
 },
 {
@@ -230,7 +231,7 @@
     "Ma 4"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Läkare"
 },
 {
@@ -242,7 +243,7 @@
     "Ma 3b/3c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Biomedicinsk analytiker"
 },
 
@@ -255,7 +256,7 @@
     "Ma 4"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Receptarie"
 },
 {
@@ -267,7 +268,7 @@
     "Ma 4"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Jägmästare"
 },
 {
@@ -279,7 +280,7 @@
     "Ma 4"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Hortonom"
 },
 {
@@ -291,7 +292,7 @@
     "Ma 4"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Sjukhusfysiker"
 },
 {
@@ -306,6 +307,14 @@
   }, {
     "alternativkod": "civilingenjor2",
     "kurser": [
+      "Ke 1",
+      "Fy 2",
+      "Ma 4",
+      "Moderna språk - aktuellt språk 3"  
+    ]
+  }, {
+    "alternativkod": "civilingenjor3",
+    "kurser": [
       "Bi 1",
       "Fy 2",
       "Ke 2",
@@ -313,7 +322,7 @@
     ]
   }],
   "grundlbeh": "true",
-  
+
   "yrke": "Civilingenjör"
 },
 {
@@ -324,7 +333,7 @@
     "Ma 4"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Brandingenjör"
 },
 {
@@ -335,7 +344,7 @@
     "Ma 3c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ortopedingenjör"
 },
 {
@@ -346,7 +355,7 @@
     "Ma 3c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Högskoleingenjör"
 },
 {
@@ -356,7 +365,7 @@
     "Fy 1a/1b1"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Sjöingenjör och maskintekniker"
 },
 {
@@ -366,7 +375,7 @@
     "Fy 1a/1b1"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Sjökapten och styrman"
 },
 {
@@ -376,7 +385,7 @@
     "Sv. teckenspråk för hörande 3/motsv."
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Teckenspråk"
 },
 {
@@ -386,7 +395,7 @@
     "Modersmål 2/ motsv."
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Modersmål"
 },
 {
@@ -396,7 +405,7 @@
     "Klassisk grekiska - språk och kultur 2"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Grekiska"
 },
 {
@@ -406,7 +415,7 @@
     "Latin - Språk och kultur 2"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Latin"
 },
 {
@@ -416,7 +425,7 @@
     "Moderna språk - aktuellt språk 3"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Moderna språk"
 },
 {
@@ -426,7 +435,7 @@
     "Hi 1b/(1a1+1a2)"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Religion"
 },
 {
@@ -436,7 +445,7 @@
     "Hi 1b/(1a1+1a2)"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Juridik"
 },
 {
@@ -446,7 +455,7 @@
     "Hi 1b/(1a1+1a2)"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Historia"
 },
 {
@@ -456,29 +465,29 @@
     "Hi 1b/(1a1+1a2)"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Filosofi"
 },
 {
   "yrkeskod": "amneslararesamhallskunskap",
   "kurser": [
-    "Sh 1b/(1a1+1a2)",
     "Ma 2a/2b/2c",
     "Sh 2"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Samhällskunskap"
 },
 {
   "yrkeskod": "amneslarareidrottochhalsa",
   "kurser": [
     "Sh 1b/(1a1+1a2)",
-    "Idh 2/motsv. Ma 2a/2b/2c",
-    "Nk 2 alt.(Bi 1+ Ke 1+(Fy 1a /(1b1+ 1b2))"
+    "Idh 2/motsv.",
+    "Ma 2a/2b/2c",
+    "Nk 2 alt.(Bi 1+ Ke 1+Fy 1a /(1b1+ 1b2)"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Idrott och hälsa"
 },
 {
@@ -488,7 +497,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Psykologi"
 },
 {
@@ -498,7 +507,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Geografi"
 },
 {
@@ -508,29 +517,29 @@
     "Ma 3b/3c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Företagsekonomi"
 },
 {
   "yrkeskod": "amneslarareteknik79",
   "kurser": [
-    "Sh 2",
-    "Ma 2a/2b/2c",
+    "Sh 1b(1a1+1a2)",
+    "Ma 3b/3c",
     "Nk 2 alt. (Bi 1+ Ke 1 + Fy 1a/(1b1+1b2))"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Teknik (7-9)"
 },
 {
   "yrkeskod": "amneslararenaturkunskap",
   "kurser": [
-    "Sh 2",
-    "Ma 2a/2b/2c",
+    "Sh 1b/(1a1+1a2)",
+    "Ma 3b/3c",
     "Nk 2 alt. (Bi 1+ Ke 1 + Fy 1a/(1b1+1b2))"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Naturkunskap"
 },
 {
@@ -540,7 +549,7 @@
     "Ma 4"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Matematik"
 },
 {
@@ -551,7 +560,7 @@
     "Ma 4"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Teknik (gym)"
 },
 {
@@ -562,7 +571,7 @@
     " Ma 4"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Fysik"
 },
 {
@@ -574,7 +583,7 @@
     "Ma 4"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Kemi"
 },
 {
@@ -586,8 +595,32 @@
     "Ma 3b/3c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Ämneslärare Biologi"
+},
+{
+  "yrkeskod": "amneslararesprak",
+  "kurser": [
+    "Sh 1b/(Sh 1a1+1a2)"
+  ],
+  "grundlbeh": "true",
+  "yrke": "Ämneslärare Bild, Engelska, Musik, Svenska och Svenska som andraspråk"
+},
+{
+  "yrkeskod": "amneslararedansteater",
+  "kurser": [
+    "Sh 1b/(Sh 1a1+1a2)"
+  ],
+  "grundlbeh": "true",
+  "yrke": "Ämneslärare Dans och Teater"
+},
+{
+  "yrkeskod": "amneslararehemkonsumentkunskapslojd",
+  "kurser": [
+    "Sh 1b/(Sh 1a1+1a2)"
+  ],
+  "grundlbeh": "true",
+  "yrke": "Ämneslärare Hem- och konsumentkunskap och slöjd"
 },
 {
   "yrkeskod": "grundlarare46",
@@ -597,7 +630,7 @@
     "Nk 1b/(Nk 1a1+1a2)"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Grundlärare 4-6"
 },
 {
@@ -608,7 +641,7 @@
     "Nk 1b/(Nk 1a1+1a2)"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Grundlärare 1-3"
 },
 {
@@ -618,7 +651,7 @@
     "Nk 1b/(Nk 1a1+1a2)"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Grundlärare fritidshem"
 },
 {
@@ -628,14 +661,14 @@
     "Nk 1b/(Nk 1a1+1a2)"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Förskollärare"
 },
 {
   "yrkeskod": "studieochyrkesvagledare",
   "kurser": ["Sh 1b/(1a1+1a2)"],
   "grundlbeh": "true",
-  
+
   "yrke": "Studie-och yrkesvägledare"
 },
 {
@@ -645,7 +678,7 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Socionom"
 },
 {
@@ -655,16 +688,27 @@
     "Ma 2a/2b/2c"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Psykolog"
 },
 {
   "yrkeskod": "civilekonom",
-    "kurser": [
-      "Sh 1b/(1a1+1a2)",
-      "Ma 3b/3c"
-    ]
-  ,
+  "yrkesalternativ": [{
+      "alternativkod": "civilekonom1",
+      "kurser": [
+        "Sh 1b/(1a1+1a2)",
+        "Ma 3b/3c"
+      ]
+    },
+    {
+      "alternativkod": "civilekonom2",
+      "kurser": [
+        "Sh 1b/(1a1+1a2)",
+        "Ma 3b/3c",
+        "Moderna språk – aktuellt språk 3"
+      ]
+    }
+  ],
   "grundlbeh": "true",
   "yrke": "Civilekonom"
 },
@@ -672,7 +716,7 @@
 {
   "yrkeskod": "agronom",
   "yrkesalternativ": [{
-    "alternativkod": "agronom1",
+      "alternativkod": "agronom1",
       "kurser": [
         "Sh 1b/(1a1+1a2)",
         "Ma 3b/ 3c",
@@ -690,7 +734,7 @@
     }
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Agronom"
 },
 {
@@ -701,7 +745,7 @@
     "Nk 2 alt.(Bi 1+Ke 1+Fy1a/(1b1+1b2))"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Arkitekt"
 },
 {
@@ -713,26 +757,17 @@
         "Ma 3b/ 3c",
         "Nk 2 alt.(Bi 1+Ke 1+Fy1a/(1b1+1b2))"
       ]
-    },
-    {
-      "alternativkod": "landskapsarkitekt2",
-      "kurser": [
-        "Fy 1a/(1b1+1b2)",
-        "Bi 2",
-        "Ke 2",
-        "Ma 4"
-      ]
     }
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Landskapsarkitekt"
 },
 {
   "yrkeskod": "utbildningarinomsprakomradet",
   "kurser": ["Moderna språk - aktuellt språk 3"],
   "grundlbeh": "true",
-  
+
   "yrke": "Utbildningar inom språkområdet"
 },
 {
@@ -742,7 +777,7 @@
     "Sh 1b/(1a1+1a2)"
   ],
   "grundlbeh": "true",
-  
+
   "yrke": "Jurist"
 }
 ]
