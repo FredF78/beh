@@ -3395,9 +3395,9 @@
               "alternativkod": "agronom2",
               "grundlbeh": "true",
               "tillval": [
-                "Bi 1+2",
+                "Bi 2",
                 "Fy 1a/(1b1+1b2)",
-                "Ke 1+2",
+                "Ke 2",
                 "Ma 4"
               ]
             },
@@ -3577,7 +3577,7 @@
               "yrkeskod": "agronom",
               "alternativkod": "agronom1",
               "tillval": [
-                "Ma 3b",
+                "Ma 3b alt. Ma 3c",
                 "Nk 2"
               ]
             },
@@ -3814,9 +3814,9 @@
               "grundlbeh": "true",
               "tillval": [
                 "Fy 1a/(1b1+1b2)",
-                "Bi 1+2",
-                "Ke 1+2",
-                "Ma 3b+4"
+                "Bi 2",
+                "Ke 2",
+                "Ma 4"
               ]
             },
 
