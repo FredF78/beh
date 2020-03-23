@@ -31,13 +31,7 @@
                        "yrkeskod": "grundlararefritidshem"
                     },
                     {
-                       "yrkeskod": "grundlarare13"
-                    },
-                    {
-                       "yrkeskod": "grundlarare46"
-                    },
-                    {
-                       "yrkeskod": "amneslarareforetagsekonomi"
+                       "yrkeskod": "grundlararefk1346"
                     },
                     {
                        "yrkeskod": "amneslararegeografi"
@@ -49,16 +43,19 @@
                        "yrkeskod": "amneslararesamhallskunskap"
                     },
                     {
-                       "yrkeskod": "amneslararefilosofi"
+                       "yrkeskod": "amneslararehistoriareligion"
                     },
                     {
-                       "yrkeskod": "amneslararehistoria"
+                       "yrkeskod": "amneslararegyfilosofijuridik"
                     },
                     {
-                       "yrkeskod": "amneslararejuridik"
+                       "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
                     },
                     {
-                       "yrkeskod": "amneslararereligion"
+                       "yrkeskod": "amneslararegydansteater"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
                     }
                  ]
               },
@@ -75,8 +72,8 @@
                        "yrkeskod": "landskapsarkitekt",
                        "alternativkod": "landskapsarkitekt1",
                        "tillval": [
-                          "Nk 2",
-                          "Ma b"
+                          "Nk 2"
+                         
                        ]
                     },
                     {
@@ -118,6 +115,7 @@
                        ]
                     },
                     {
+                       "kommentar": "ger behörighet om läst ämnet i grundskolan",
                        "yrkeskod": "amneslararemodernasprak",
                        "tillval": [
                           "Moderna språk - aktuellt språk 3"
@@ -126,13 +124,13 @@
                     {
                        "yrkeskod": "amneslararelatin",
                        "tillval": [
-                          "Latin språk och kultur 1+2"
+                          "Latin språk och kultur 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararegrekiska",
+                       "yrkeskod": "amneslararegygrekiska",
                        "tillval": [
-                          "Kl. Grek 1+2"
+                          "Kl. Grek 2"
                        ]
                     },
                     {
@@ -142,15 +140,17 @@
                        ]
                     },
                     {
-                       "yrkeskod": "sjokaptenochstyrman",
+                       "yrkeskod": "sjokapten",
                        "tillval": [
-                          "Fy 1a/1b1"
+                          "Fy 1a/1b1",
+                          "Ma 3b/3c"
                        ]
                     },
                     {
-                       "yrkeskod": "sjoingenjorochmaskintekniker",
+                       "yrkeskod": "sjoingenjor",
                        "tillval": [
-                          "Fy 1a/1b1"
+                          "Fy 1a/1b1",
+                          "Ma 3b/3c"
                        ]
                     },
                     {
@@ -174,8 +174,8 @@
                     {
                        "yrkeskod": "tandhygienist",
                        "tillval": [
-                          "Nk 2",
-                          "Ma b"
+                          "Nk 2"
+                       
                        ]
                     },
                     {
@@ -256,6 +256,12 @@
                        "tillval": [
                           "Moderna språk - aktuellt språk 3"
                        ]
+                    },
+                    {
+                       "yrkeskod": "amneslararegyforetagsekonomi",
+                       "tillval": [
+                          "Ma 3b/3c"
+                       ]
                     }
                  ]
               },
@@ -266,29 +272,30 @@
                        "yrkeskod": "amneslararebiologi",
                        "tillval": [
                           "Ke 1",
-                          "Bi 1+2"
+                          "Bi 2",
+                          "Ma 3b/3c",
+                          "Sh 1b/(1a1+1a2)"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararekemi",
                        "tillval": [
                           "Bi 1",
-                          "Ke 1+2",
+                          "Ke 2",
                           "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararefysik",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
                           "Fy 2",
-                          "Ma 4"
+                          "Ma 4",
+                          "Sh 1b/(1a1+1a2)"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareteknik",
+                       "yrkeskod": "amneslarareteknikgy",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
                           "Fy 2",
                           "Ma 4"
                        ]
@@ -296,8 +303,7 @@
                     {
                        "yrkeskod": "hogskoleingenjor",
                        "tillval": [
-                          "Ke1",
-                          "Fy 1a/(1b1+1b2)",
+                          "Ke 1",
                           "Fy 2",
                           "Ma 3c"
                        ]
@@ -305,8 +311,7 @@
                     {
                        "yrkeskod": "ortopedingenjor",
                        "tillval": [
-                          "Ke1",
-                          "Fy 1a/(1b1+1b2)",
+                          "Ke 1",
                           "Fy 2",
                           "Ma 3c"
                        ]
@@ -354,9 +359,8 @@
                        "yrkeskod": "sjukhusfysiker",
                        "tillval": [
                           "Bi 1",
-                          "Fy 1a/(1b1+1b2)",
                           "Fy 2",
-                          "Ke 1+2",
+                          "Ke 2",
                           "Ma 4"
                        ]
                     },
@@ -375,27 +379,27 @@
                        "yrkeskod": "hortonom",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Fy 1a/(1b1+1b2)",
-                          "Ke 1+2",
+                          "Ke 2",
                           "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "jagmastare",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Fy 1a/(1b1+1b2)",
-                          "Ke 1+2",
+                          "Ke 2",
                           "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "receptarie",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Fy 1a/(1b1+1b2)",
-                          "Ke 1+2",
+                          "Ke 2",
                           "Ma 4"
                        ]
                     },
@@ -411,30 +415,24 @@
                        "yrkeskod": "lakare",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Bi 1+2",
-                          "Fy 1a/(1b1+1b2)",
+                          "Bi 2",
                           "Fy 2",
-                          "Ke 1+2",
+                          "Ke 2",
                           "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "optiker",
                        "tillval": [
-                          "Bi 1+2",
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ke 1+2",
-                          "Ma 4"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandlakare",
                        "tillval": [
-                          "Bi 1+2",
-                          "Fy 1a/(1b1+1b2)",
+                          "Bi 2",
                           "Fy 2",
-                          "Ke 1+2",
+                          "Ke 2",
                           "Ma 4"
                        ]
                     },
@@ -450,10 +448,9 @@
                     {
                        "yrkeskod": "veterinar",
                        "tillval": [
-                          "Bi 1+2",
-                          "Fy 1a/(1b1+1b2)",
+                          "Bi 2",
                           "Fy 2",
-                          "Ke 1+2",
+                          "Ke 2",
                           "Ma 4"
                        ]
                     },
@@ -493,10 +490,7 @@
                        "yrkeskod": "grundlararefritidshem"
                     },
                     {
-                       "yrkeskod": "grundlarare13"
-                    },
-                    {
-                       "yrkeskod": "grundlarare46"
+                       "yrkeskod": "grundlararefk1346"
                     },
                     {
                        "yrkeskod": "amneslararegeografi"
@@ -508,16 +502,19 @@
                        "yrkeskod": "amneslararesamhallskunskap"
                     },
                     {
-                       "yrkeskod": "amneslararefilosofi"
+                       "yrkeskod": "amneslararehistoriareligion"
                     },
                     {
-                       "yrkeskod": "amneslararehistoria"
+                       "yrkeskod": "amneslararegyfilosofijuridik"
                     },
                     {
-                       "yrkeskod": "amneslararejuridik"
+                       "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
                     },
                     {
-                       "yrkeskod": "amneslararereligion"
+                       "yrkeskod": "amneslararegydansteater"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
                     }
                  ]
               },
@@ -534,7 +531,7 @@
                        "yrkeskod": "landskapsarkitekt",
                        "alternativkod": "landskapsarkitekt1",
                        "tillval": [
-                          "Ma 3b",
+                         
                           "Nk 2"
                        ]
                     },
@@ -571,27 +568,27 @@
                     {
                        "yrkeskod": "amneslararematematik",
                        "tillval": [
-                          "Ma 3b+4"
+                          "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararenaturkunskap",
                        "tillval": [
-                          "Ma 3b",
+                          "Ma 3b/3c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "amneslarareteknik79",
                        "tillval": [
-                          "Ma 3b",
+                          "Ma 3b/3c",
                           "Nk 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareforetagsekonomi",
+                       "yrkeskod": "amneslararegyforetagsekonomi",
                        "tillval": [
-                          "Ma 3b"
+                        "Ma 3b/3c"
                        ]
                     },
                     {
@@ -610,13 +607,13 @@
                     {
                        "yrkeskod": "amneslararelatin",
                        "tillval": [
-                          "Latin språk och kultur 1+2"
+                          "Latin språk och kultur 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararegrekiska",
+                       "yrkeskod": "amneslararegygrekiska",
                        "tillval": [
-                          "Kl. Grek 1+2"
+                          "Kl. Grek 2"
                        ]
                     },
                     {
@@ -626,15 +623,17 @@
                        ]
                     },
                     {
-                       "yrkeskod": "sjokaptenochstyrman",
+                       "yrkeskod": "sjokapten",
                        "tillval": [
-                          "Fy 1a/1b1"
+                        "Fy 1a/1b1",
+                        "Ma 3b/3c"
                        ]
                     },
                     {
-                       "yrkeskod": "sjoingenjorochmaskintekniker",
+                       "yrkeskod": "sjoingenjor",
                        "tillval": [
-                          "Fy 1a/1b1"
+                        "Fy 1a/1b1",
+                        "Ma 3b/3c"
                        ]
                     },
                     {
@@ -741,25 +740,26 @@
                     {
                        "yrkeskod": "amneslararebiologi",
                        "tillval": [
-                          "Ke 1",
-                          "Bi 1+2",
-                          "Ma 3b"
+                        "Ke 1",
+                        "Bi 2",
+                        "Ma 3b/3c",
+                        "Sh 1b/(1a1+1a2)"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararekemi",
                        "tillval": [
-                          "Bi 1",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 1",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararefysik",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ma 3b+4"
+                        "Fy 2",
+                        "Ma 4",
+                        "Sh 1b/(1a1+1a2)"
                        ]
                     },
                     {
@@ -769,30 +769,27 @@
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareteknik",
+                       "yrkeskod": "amneslarareteknikgy",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ma 3b+4"
+                        "Fy 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "hogskoleingenjor",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy2",
-                          "Ke 1",
-                          "Ma 3c"
+                        "Ke 1",
+                        "Fy 2",
+                        "Ma 3c"
                        ]
                     },
                     {
                        "yrkeskod": "ortopedingenjor",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy2",
-                          "Ke 1",
-                          "Ma 3c"
+                        "Ke 1",
+                        "Fy 2",
+                        "Ma 3c"
                        ]
                     },
                     {
@@ -818,11 +815,9 @@
                        "alterantivkod": "civilingenjor2",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Bi 1",
-                          "Fy 1a/(1b1+1b2)",
                           "Fy 2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                          "Ke 1",
+                          "Ma 4"
                        ]
                     },
                     {
@@ -839,11 +834,10 @@
                     {
                        "yrkeskod": "sjukhusfysiker",
                        "tillval": [
-                          "Bi 1",
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 1",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -860,28 +854,28 @@
                     {
                        "yrkeskod": "hortonom",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "jagmastare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "receptarie",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -897,31 +891,25 @@
                     {
                        "yrkeskod": "lakare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "optiker",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandlakare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -936,11 +924,10 @@
                     {
                        "yrkeskod": "veterinar",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     }
                  ]
@@ -976,16 +963,19 @@
                        "yrkeskod": "grundlararefritidshem"
                     },
                     {
-                       "yrkeskod": "amneslararefilosofi"
+                       "yrkeskod": "amneslararehistoriareligion"
                     },
                     {
-                       "yrkeskod": "amneslararehistoria"
+                       "yrkeskod": "amneslararegyfilosofijuridik"
                     },
                     {
-                       "yrkeskod": "amneslararejuridik"
+                       "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
                     },
                     {
-                       "yrkeskod": "amneslararereligion"
+                       "yrkeskod": "amneslararegydansteater"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
                     }
                  ]
               },
@@ -1002,7 +992,7 @@
                        "yrkeskod": "landskapsarkitekt",
                        "alternativkod": "landskapsarkitekt1",
                        "tillval": [
-                          "Ma 2b+3b",
+                          "Ma 3b/3c",
                           "Nk2"
                        ]
                     },
@@ -1039,77 +1029,71 @@
                     {
                        "yrkeskod": "psykolog",
                        "tillval": [
-                          "Ma 2b"
+                          "Ma 2a/2b/2c"
                        ]
                     },
                     {
                        "yrkeskod": "socionom",
                        "tillval": [
-                          "Ma 2b"
+                          "Ma 2a/2b/2c"
                        ]
                     },
                     {
-                       "yrkeskod": "grundlarare13",
+                       "yrkeskod": "grundlararefk1346",
                        "tillval": [
-                          "Ma 2b"
-                       ]
-                    },
-                    {
-                       "yrkeskod": "grundlarare46",
-                       "tillval": [
-                          "Ma 2b"
+                          "Ma 2a/2b/2c"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararematematik",
                        "tillval": [
-                          "Ma 2b+3b+4"
+                          "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararenaturkunskap",
                        "tillval": [
-                          "Ma 2b+3b",
-                          "Nk 2"
+                        "Ma 3b/3c",
+                        "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "amneslarareteknik79",
                        "tillval": [
-                          "Ma 2b+3b",
-                          "Nk 2"
+                        "Ma 3b/3c",
+                        "Nk 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareforetagsekonomi",
+                       "yrkeskod": "amneslararegyforetagsekonomi",
                        "tillval": [
-                          "Ma 2b+3b"
+                        "Ma 3b/3c"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararegeografi",
                        "tillval": [
-                          "Ma 2b"
+                          "Ma 2a/2b/2c"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararepsykologi",
                        "tillval": [
-                          "Ma 2b"
+                          "Ma 2a/2b/2c"
                        ]
                     },
                     {
                        "yrkeskod": "amneslarareidrottochhalsa",
                        "tillval": [
                           "Idh 2",
-                          "Ma 2b",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararesamhallskunskap",
                        "tillval": [
-                          "Ma 2b",
+                          "Ma 2a/2b/2c",
                           "Sh 2"
                        ]
                     },
@@ -1122,13 +1106,13 @@
                     {
                        "yrkeskod": "amneslararelatin",
                        "tillval": [
-                          "Latin språk och kultur 1+2"
+                          "Latin språk och kultur 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararegrekiska",
+                       "yrkeskod": "amneslararegygrekiska",
                        "tillval": [
-                          "Kl. Grek 1+2"
+                          "Kl. Grek 2"
                        ]
                     },
                     {
@@ -1138,72 +1122,72 @@
                        ]
                     },
                     {
-                       "yrkeskod": "sjokaptenochstyrman",
+                       "yrkeskod": "sjokapten",
                        "tillval": [
-                          "Fy 1a/1b1",
-                          "Ma 2b"
+                        "Fy 1a/1b1",
+                        "Ma 3b/3c"
                        ]
                     },
                     {
-                       "yrkeskod": "sjoingenjorochmaskintekniker",
+                       "yrkeskod": "sjoingenjor",
                        "tillval": [
-                          "Fy 1a/1b1",
-                          "Ma 2b"
+                        "Fy 1a/1b1",
+                        "Ma 3b/3c"
                        ]
                     },
                     {
                        "yrkeskod": "sjukskoterska",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "skogsmastare",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "skogstekniker",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandhygienist",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandtekniker",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "landskapsingenjor",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tradgardsingenjor",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "dietist",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
@@ -1224,42 +1208,42 @@
                     {
                        "yrkeskod": "logoped",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "lantmastare",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "rontgensjukskoterska",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "djursjukvardare",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "hippolog",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "fysioterapeutsjukgymnast",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     }
@@ -1271,33 +1255,33 @@
                     {
                        "yrkeskod": "amneslararebiologi",
                        "tillval": [
-                          "Ke 1",
-                          "Bi 1+2",
-                          "Ma 2b+3b"
+                        "Ke 1",
+                        "Bi 2",
+                        "Ma 3b/3c",
+                        "Sh 1b/(1a1+1a2)"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararekemi",
                        "tillval": [
-                          "Bi 1",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 1",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararefysik",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ma 2b+3b+4"
+                        "Fy 2",
+                        "Ma 4",
+                        "Sh 1b/(1a1+1a2)"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareteknik",
+                       "yrkeskod": "amneslarareteknikgy",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ma 2b+3b+4"
+                        "Fy 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -1309,21 +1293,17 @@
                     {
                        "yrkeskod": "hogskoleingenjor",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ke 1",
-                          "Ma 2b",
-                          "Ma 3c"
+                        "Ke 1",
+                        "Fy 2",
+                        "Ma 3c"
                        ]
                     },
                     {
                        "yrkeskod": "ortopedingenjor",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ke 1",
-                          "Ma 2b",
-                          "Ma 3c"
+                        "Ke 1",
+                        "Fy 2",
+                        "Ma 3c"
                        ]
                     },
                     {
@@ -1349,11 +1329,11 @@
                        "alternativkod": "civilingenjor2",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
+                         
                           "Fy 2",
-                          "Bi 1",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                      
+                          "Ke 1",
+                          "Ma 4"
                        ]
                     },
                     {
@@ -1370,38 +1350,37 @@
                     {
                        "yrkeskod": "sjukhusfysiker",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 1",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "hortonom",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "jagmastare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "receptarie",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -1416,31 +1395,27 @@
                     {
                        "yrkeskod": "lakare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "optiker",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                          
+                          "Ma 2a/2b/2c",
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandlakare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -1455,11 +1430,10 @@
                     {
                        "yrkeskod": "veterinar",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -1486,8 +1460,8 @@
   {
      "inriktningar": [
         {
-           "inriktningsnamn": "Samtliga",
-           "inriktningskod": "samtliga",
+           "inriktningsnamn": "Kultur",
+           "inriktningskod": "kultur",
            "behorigheter": [
               {
                  "kategori": "A",
@@ -1505,16 +1479,19 @@
                        "yrkeskod": "grundlararefritidshem"
                     },
                     {
-                       "yrkeskod": "amneslararefilosofi"
+                       "yrkeskod": "amneslararehistoriareligion"
                     },
                     {
-                       "yrkeskod": "amneslararehistoria"
+                       "yrkeskod": "amneslararegyfilosofijuridik"
                     },
                     {
-                       "yrkeskod": "amneslararejuridik"
+                       "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
                     },
                     {
-                       "yrkeskod": "amneslararereligion"
+                       "yrkeskod": "amneslararegydansteater"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
                     }
                  ]
               },
@@ -1531,7 +1508,7 @@
                        "yrkeskod": "landskapsarkitekt",
                        "alternativkod": "landskapsarkitekt1",
                        "tillval": [
-                          "Ma 2b+3",
+                          "Ma 3b/3c",
                           "Nk2"
                        ]
                     },
@@ -1568,81 +1545,76 @@
                     {
                        "yrkeskod": "psykolog",
                        "tillval": [
-                          "Ma 2b"
+                        "Ma 2a/2b/2c"
                        ]
                     },
                     {
                        "yrkeskod": "socionom",
                        "tillval": [
-                          "Ma 2b"
+                        "Ma 2a/2b/2c"
                        ]
                     },
                     {
-                       "yrkeskod": "grundlarare13",
+                       "yrkeskod": "grundlararefk1346",
                        "tillval": [
-                          "Ma 2b"
-                       ]
-                    },
-                    {
-                       "yrkeskod": "grundlarare46",
-                       "tillval": [
-                          "Ma 2b"
+                          "Ma 2a/2b/2c"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararematematik",
                        "tillval": [
-                          "Ma 2b+3b+4"
+                          "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararenaturkunskap",
                        "tillval": [
-                          "Ma 2b+3",
-                          "Nk 2"
+                        "Ma 3b/3c",
+                        "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "amneslarareteknik79",
                        "tillval": [
-                          "Ma 2b+3",
-                          "Nk 2"
+                        "Ma 3b/3c",
+                        "Nk 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareforetagsekonomi",
+                       "yrkeskod": "amneslararegyforetagsekonomi",
                        "tillval": [
-                          "Ma 2b+3b"
+                        "Ma 3b/3c"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararegeografi",
                        "tillval": [
-                          "Ma 2b"
+                        "Ma 2a/2b/2c"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararepsykologi",
                        "tillval": [
-                          "Ma 2b"
+                        "Ma 2a/2b/2c"
                        ]
                     },
                     {
                        "yrkeskod": "amneslarareidrottochhalsa",
                        "tillval": [
-                          "Idh 2",
-                          "Ma 2b",
+                        "Idh 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararesamhallskunskap",
                        "tillval": [
-                          "Ma 2",
-                          "Sh 2"
+                        "Ma 2a/2b/2c",
+                        "Sh 2"
                        ]
                     },
                     {
+                       "kommentar": "ger behörighet om läst ämnet i grundskolan",
                        "yrkeskod": "amneslararemodernasprak",
                        "tillval": [
                           "Moderna språk - aktuellt språk 3"
@@ -1651,14 +1623,13 @@
                     {
                        "yrkeskod": "amneslararelatin",
                        "tillval": [
-                          "Latin 1(endast inr. Kultur",
-                          "Latin 2"
+                        "Latin språk och kultur 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararegrekiska",
+                       "yrkeskod": "amneslararegygrekiska",
                        "tillval": [
-                          "Kl. Grek 1+2"
+                          "Kl. Grek 2"
                        ]
                     },
                     {
@@ -1674,72 +1645,72 @@
                        ]
                     },
                     {
-                       "yrkeskod": "sjokaptenochstyrman",
+                       "yrkeskod": "sjokapten",
                        "tillval": [
-                          "Fy 1a/1b",
-                          "Ma 2b"
+                        "Fy 1a/1b1",
+                        "Ma 3b/3c"
                        ]
                     },
                     {
-                       "yrkeskod": "sjoingenjorochmaskintekniker",
+                       "yrkeskod": "sjoingenjor",
                        "tillval": [
-                          "Fy 1a/1b",
-                          "Ma 2b"
+                        "Fy 1a/1b1",
+                        "Ma 3b/3c"
                        ]
                     },
                     {
                        "yrkeskod": "sjukskoterska",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "skogsmastare",
                        "tillval": [
-                          "Ma 2",
-                          "Nk 2"
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "skogstekniker",
                        "tillval": [
-                          "Ma 2",
-                          "Nk 2"
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandhygienist",
                        "tillval": [
-                          "Ma 2",
-                          "Nk 2"
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandtekniker",
                        "tillval": [
-                          "Ma 2",
-                          "Nk 2"
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "landskapsingenjor",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tradgardsingenjor",
                        "tillval": [
-                          "Ma 2",
-                          "Nk 2"
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "dietist",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
@@ -1760,42 +1731,42 @@
                     {
                        "yrkeskod": "logoped",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "lantmastare",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "rontgensjukskoterska",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "djursjukvardare",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "hippolog",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "fysioterapeutsjukgymnast",
                        "tillval": [
-                          "Ma 2",
+                          "Ma 2a/2b/2c",
                           "Nk 2"
                        ]
                     }
@@ -1807,53 +1778,49 @@
                     {
                        "yrkeskod": "amneslararebiologi",
                        "tillval": [
-                          "Ke 1",
-                          "Bi 1+2",
-                          "Ma 2b+3b"
+                        "Ke 1",
+                        "Bi 2",
+                        "Ma 3b/3c",
+                        "Sh 1b/(1a1+1a2)"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararekemi",
                        "tillval": [
-                          "Bi 1",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 1",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararefysik",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ma 2b+3b+4"
+                        "Fy 2",
+                        "Ma 4",
+                        "Sh 1b/(1a1+1a2)"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareteknik",
+                       "yrkeskod": "amneslarareteknikgy",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ma 2b+3b+4"
+                        "Fy 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "hogskoleingenjor",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ke 1",
-                          "Ma 2b",
-                          "Ma 3c"
+                        "Ke 1",
+                        "Fy 2",
+                        "Ma 3c"
                        ]
                     },
                     {
                        "yrkeskod": "ortopedingenjor",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ke 1",
-                          "Ma 2b",
-                          "Ma 3c"
+                        "Ke 1",
+                        "Fy 2",
+                        "Ma 3c"
                        ]
                     },
                     {
@@ -1879,11 +1846,11 @@
                        "alternativkod": "civilingenjor2",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
+                         
                           "Fy 2",
-                          "Bi 1",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        
+                          "Ke 1",
+                          "Ma 4"
                        ]
                     },
                     {
@@ -1900,38 +1867,37 @@
                     {
                        "yrkeskod": "sjukhusfysiker",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 1",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "hortonom",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+1",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "jagmastare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+1",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "receptarie",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+1",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -1956,31 +1922,26 @@
                     {
                        "yrkeskod": "lakare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "optiker",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandlakare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -1995,17 +1956,518 @@
                     {
                        "yrkeskod": "veterinar",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 2b+3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     }
                  ]
               }
            ]
-        }
+        },{
+         "inriktningsnamn": "Språk",
+         "inriktningskod": "sprak",
+         "behorigheter": [
+            {
+               "kategori": "A",
+               "yrken": [
+                  {
+                     "yrkeskod": "jurist"
+                  },
+                  {
+                     "yrkeskod": "studieochyrkesvagledare"
+                  },
+                  {
+                     "yrkeskod": "forskolelarare"
+                  },
+                  {
+                     "yrkeskod": "grundlararefritidshem"
+                  },
+                  {
+                     "yrkeskod": "amneslararehistoriareligion"
+                  },
+                  {
+                     "yrkeskod": "amneslararegyfilosofijuridik"
+                  },
+                  {
+                     "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
+                  },
+                  {
+                     "yrkeskod": "amneslararegydansteater"
+                  },
+                  {
+                     "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
+                  },
+                  {
+                     "yrkeskod": "amneslararemodernasprak"
+                  }
+               ]
+            },
+            {
+               "kategori": "B",
+               "yrken": [
+                  {
+                     "yrkeskod": "utbildningarinomsprakomradet",
+                     "tillval": [
+                        "Moderna språk - aktuellt språk 3"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "landskapsarkitekt",
+                     "alternativkod": "landskapsarkitekt1",
+                     "tillval": [
+                        "Ma 3b/3c",
+                        "Nk2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "arkitekt",
+                     "tillval": [
+                        "Ma 3b/3c",
+                        "Nk2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "agronom",
+                     "alternativkod": "agronom1",
+                     "tillval": [
+                        "Ma 3b/3c",
+                        "Nk2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "civilekonom",
+                     "alternativkod": "civilekonom1",
+                     "tillval": [
+                        "Ma 3b/3c"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "civilekonom",
+                     "alternativkod": "civilekonom2",
+                     "tillval": [
+                        "Ma 3b/3c",
+                        "Moderna språk - aktuellt språk 3"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "psykolog",
+                     "tillval": [
+                      "Ma 2a/2b/2c"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "socionom",
+                     "tillval": [
+                      "Ma 2a/2b/2c"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "grundlararefk1346",
+                     "tillval": [
+                        "Ma 2a/2b/2c"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararematematik",
+                     "tillval": [
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararenaturkunskap",
+                     "tillval": [
+                        "Ma 3b/3c",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareteknik79",
+                     "tillval": [
+                        "Ma 3b/3c",
+                          "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararegyforetagsekonomi",
+                     "tillval": [
+                      "Ma 3b/3c"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararegeografi",
+                     "tillval": [
+                      "Ma 2a/2b/2c"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararepsykologi",
+                     "tillval": [
+                        "Ma 2a/2b/2c"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareidrottochhalsa",
+                     "tillval": [
+                      "Idh 2",
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararesamhallskunskap",
+                     "tillval": [
+                        "Ma 2a/2b/2c",
+                          "Sh 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararelatin",
+                     "tillval": [
+                      "Latin språk och kultur 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararegygrekiska",
+                     "tillval": [
+                        "Kl. Grek 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararemodersmal",
+                     "tillval": [
+                        "Modersmål 1+2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareteckensprak",
+                     "tillval": [
+                        "Svenskt teckenspråk för hörande 1+2+3"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "sjokapten",
+                     "tillval": [
+                      "Fy 1a/1b1",
+                      "Ma 3b/3c"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "sjoingenjor",
+                     "tillval": [
+                      "Fy 1a/1b1",
+                      "Ma 3b/3c"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "sjukskoterska",
+                     "tillval": [
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "skogsmastare",
+                     "tillval": [
+                      "Ma 2a/2b/2c",
+                      "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "skogstekniker",
+                     "tillval": [
+                      "Ma 2a/2b/2c",
+                      "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tandhygienist",
+                     "tillval": [
+                      "Ma 2a/2b/2c",
+                      "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tandtekniker",
+                     "tillval": [
+                      "Ma 2a/2b/2c",
+                      "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "landskapsingenjor",
+                     "tillval": [
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tradgardsingenjor",
+                     "tillval": [
+                      "Ma 2a/2b/2c",
+                      "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "dietist",
+                     "tillval": [
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "arbetsterapeut",
+                     "tillval": [
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "audionom",
+                     "tillval": [
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "logoped",
+                     "tillval": [
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "lantmastare",
+                     "tillval": [
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "rontgensjukskoterska",
+                     "tillval": [
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "djursjukvardare",
+                     "tillval": [
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "hippolog",
+                     "tillval": [
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "fysioterapeutsjukgymnast",
+                     "tillval": [
+                        "Ma 2a/2b/2c",
+                        "Nk 2"
+                     ]
+                  }
+               ]
+            },
+            {
+               "kategori": "C",
+               "yrken": [
+                  {
+                     "yrkeskod": "amneslararebiologi",
+                     "tillval": [
+                      "Ke 1",
+                      "Bi 2",
+                      "Ma 3b/3c",
+                      "Sh 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararekemi",
+                     "tillval": [
+                      "Bi 1",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararefysik",
+                     "tillval": [
+                      "Fy 2",
+                      "Ma 4",
+                      "Sh 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareteknikgy",
+                     "tillval": [
+                        "Fy 2",
+                          "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "hogskoleingenjor",
+                     "tillval": [
+                      "Ke 1",
+                      "Fy 2",
+                      "Ma 3c"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "ortopedingenjor",
+                     "tillval": [
+                      "Ke 1",
+                      "Fy 2",
+                      "Ma 3c"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "brandingenjor",
+                     "tillval": [
+                      "Ke 1",
+                      "Fy 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "civilingenjor",
+                     "alternativkod": "civilingenjor1",
+                     "tillval": [
+                        
+                        "Fy 2",
+                        "Ke 1",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "civilingenjor",
+                     "alternativkod": "civilingenjor2",
+                     "grundlbeh": "true",
+                     "tillval": [
+                       
+                        "Fy 2",
+                      
+                        "Ke 1",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "civilingenjor",
+                     "alternativkod": "civilingenjor3",
+                     "grundlbeh": "true",
+                     "tillval": [
+                        "Bi 1",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "sjukhusfysiker",
+                     "tillval": [
+                      "Bi 1",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "hortonom",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 1a/(1b1+1b2)",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "jagmastare",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 1a/(1b1+1b2)",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "receptarie",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 1a/(1b1+1b2)",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "agronom",
+                     "alternativkod": "agronom2",
+                     "tillval": [
+                        "Fy 1a/(1b1+1b2)",
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "biomedicinskanalytiker",
+                     "tillval": [
+                        "Fy 1a/(1b1+1b2)",
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 3b/3c"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "lakare",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "optiker",
+                     "tillval": [
+                      "Ma 2a/2b/2c",
+                      "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tandlakare",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "apotekare",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "veterinar",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
      ],
      "grundlbeh": true,
      "dstimestamp": 1581940708800,
@@ -2060,10 +2522,7 @@
                        "yrkeskod": "grundlararefritidshem"
                     },
                     {
-                       "yrkeskod": "grundlarare13"
-                    },
-                    {
-                       "yrkeskod": "grundlarare46"
+                       "yrkeskod": "grundlararefk1346"
                     },
                     {
                        "yrkeskod": "amneslararebiologi"
@@ -2075,7 +2534,7 @@
                        "yrkeskod": "amneslararefysik"
                     },
                     {
-                       "yrkeskod": "amneslarareteknik"
+                       "yrkeskod": "amneslarareteknikgy"
                     },
                     {
                        "yrkeskod": "amneslararematematik"
@@ -2087,7 +2546,7 @@
                        "yrkeskod": "amneslarareteknik79"
                     },
                     {
-                       "yrkeskod": "amneslarareforetagsekonomi"
+                       "yrkeskod": "amneslararegyforetagsekonomi"
                     },
                     {
                        "yrkeskod": "amneslararegeografi"
@@ -2096,22 +2555,16 @@
                        "yrkeskod": "amneslararepsykologi"
                     },
                     {
-                       "yrkeskod": "amneslararefilosofi"
+                       "yrkeskod": "amneslararehistoriareligion"
                     },
                     {
-                       "yrkeskod": "amneslararehistoria"
+                       "yrkeskod": "amneslararegyfilosofijuridik"
                     },
                     {
-                       "yrkeskod": "amneslararejuridik"
+                       "yrkeskod": "sjokapten"
                     },
                     {
-                       "yrkeskod": "amneslararereligion"
-                    },
-                    {
-                       "yrkeskod": "sjokaptenochstyrman"
-                    },
-                    {
-                       "yrkeskod": "sjoingenjorochmaskintekniker"
+                       "yrkeskod": "sjoingenjor"
                     },
                     {
                        "yrkeskod": "hogskoleingenjor"
@@ -2211,6 +2664,15 @@
                     },
                     {
                        "yrkeskod": "veterinar"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
+                    },
+                    {
+                       "yrkeskod": "amneslararegydansteater"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
                     }
                  ]
               },
@@ -2243,6 +2705,7 @@
                        ]
                     },
                     {
+                     "kommentar": "ger behörighet om läst ämnet i grundskolan",
                        "yrkeskod": "amneslararemodernasprak",
                        "tillval": [
                           "Moderna språk - aktuellt språk 3"
@@ -2251,13 +2714,13 @@
                     {
                        "yrkeskod": "amneslararelatin",
                        "tillval": [
-                          "Latin språk och kultur 1+2"
+                          "Latin språk och kultur 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararegrekiska",
+                       "yrkeskod": "amneslararegygrekiska",
                        "tillval": [
-                          "Kl. Grek 1+2"
+                          "Kl. Grek 2"
                        ]
                     },
                     {
@@ -2322,10 +2785,7 @@
                        "yrkeskod": "grundlararefritidshem"
                     },
                     {
-                       "yrkeskod": "grundlarare13"
-                    },
-                    {
-                       "yrkeskod": "grundlarare46"
+                       "yrkeskod": "grundlararefk1346"
                     },
                     {
                        "yrkeskod": "amneslararenaturkunskap"
@@ -2334,7 +2794,7 @@
                        "yrkeskod": "amneslarareteknik79"
                     },
                     {
-                       "yrkeskod": "amneslarareforetagsekonomi"
+                       "yrkeskod": "amneslararegyforetagsekonomi"
                     },
                     {
                        "yrkeskod": "amneslararegeografi"
@@ -2346,22 +2806,16 @@
                        "yrkeskod": "amneslararesamhallskunskap"
                     },
                     {
-                       "yrkeskod": "amneslararefilosofi"
+                       "yrkeskod": "amneslararehistoriareligion"
                     },
                     {
-                       "yrkeskod": "amneslararehistoria"
+                       "yrkeskod": "amneslararegyfilosofijuridik"
                     },
                     {
-                       "yrkeskod": "amneslararejuridik"
+                       "yrkeskod": "sjokapten"
                     },
                     {
-                       "yrkeskod": "amneslararereligion"
-                    },
-                    {
-                       "yrkeskod": "sjokaptenochstyrman"
-                    },
-                    {
-                       "yrkeskod": "sjoingenjorochmaskintekniker"
+                       "yrkeskod": "sjoingenjor"
                     },
                     {
                        "yrkeskod": "sjukskoterska"
@@ -2410,6 +2864,24 @@
                     },
                     {
                        "yrkeskod": "fysioterapeutsjukgymnast"
+                    },
+                    {
+                       "yrkeskod": "optiker"
+                    },
+                    {
+                       "yrkeskod": "ortopedingenjor"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
+                    },
+                    {
+                       "yrkeskod": "amneslararebiologi"
+                    },
+                    {
+                       "yrkeskod": "amneslararegydansteater"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
                     }
                  ]
               },
@@ -2430,17 +2902,9 @@
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararebiologi",
-                       "grundlbeh": "true",
-                       "tillval": [
-                          "Bi 2"
-                       ]
-                    },
-                    {
                        "yrkeskod": "amneslararekemi",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Ke 2",
                           "Ma 4"
                        ]
                     },
@@ -2448,15 +2912,14 @@
                        "yrkeskod": "amneslararefysik",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Fy 2",
+                          
                           "Ma 4"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareteknik",
+                       "yrkeskod": "amneslarareteknikgy",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Fy 2",
                           "Ma 4"
                        ]
                     },
@@ -2474,13 +2937,7 @@
                           "Fy 2"
                        ]
                     },
-                    {
-                       "yrkeskod": "ortopedingenjor",
-                       "grundlbeh": "true",
-                       "tillval": [
-                          "Fy 2"
-                       ]
-                    },
+                   
                     {
                        "yrkeskod": "brandingenjor",
                        "grundlbeh": "true",
@@ -2494,7 +2951,6 @@
                        "alternativkod": "civilingenjor1",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Fy 2",
                           "Ma 4"
                        ]
                     },
@@ -2503,8 +2959,6 @@
                        "alternativkod": "civilingenjor2",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Fy 2",
-                          "Ke 2",
                           "Ma 4"
                        ]
                     },
@@ -2521,7 +2975,6 @@
                        "yrkeskod": "sjukhusfysiker",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Fy 2",
                           "Ke 2",
                           "Ma 4"
                        ]
@@ -2541,7 +2994,7 @@
                        "yrkeskod": "hortonom",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Bi 2",
+                     
                           "Ke 2",
                           "Ma 4"
                        ]
@@ -2550,7 +3003,6 @@
                        "yrkeskod": "jagmastare",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Bi 2",
                           "Ke 2",
                           "Ma 4"
                        ]
@@ -2559,7 +3011,6 @@
                        "yrkeskod": "receptarie",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Bi 2",
                           "Ke 2",
                           "Ma 4"
                        ]
@@ -2576,17 +3027,7 @@
                        "yrkeskod": "lakare",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Bi 2",
-                          "Fy 2",
-                          "Ke 2",
-                          "Ma 4"
-                       ]
-                    },
-                    {
-                       "yrkeskod": "optiker",
-                       "grundlbeh": "true",
-                       "tillval": [
-                          "Bi 2",
+                       
                           "Fy 2",
                           "Ke 2",
                           "Ma 4"
@@ -2596,7 +3037,6 @@
                        "yrkeskod": "tandlakare",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Bi 2",
                           "Fy 2",
                           "Ke 2",
                           "Ma 4"
@@ -2616,7 +3056,7 @@
                        "yrkeskod": "veterinar",
                        "grundlbeh": "true",
                        "tillval": [
-                          "Bi 2",
+                         
                           "Fy 2",
                           "Ke 2",
                           "Ma 4"
@@ -2629,6 +3069,7 @@
                        ]
                     },
                     {
+                     "kommentar": "ger behörighet om läst ämnet i grundskolan",
                        "yrkeskod": "amneslararemodernasprak",
                        "tillval": [
                           "Moderna språk - aktuellt språk 3"
@@ -2637,13 +3078,13 @@
                     {
                        "yrkeskod": "amneslararelatin",
                        "tillval": [
-                          "Latin språk och kultur 1+2"
+                          "Latin språk och kultur 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararegrekiska",
+                       "yrkeskod": "amneslararegygrekiska",
                        "tillval": [
-                          "Kl. Grek 1+2"
+                          "Kl. Grek 2"
                        ]
                     },
                     {
@@ -2702,10 +3143,7 @@
                        "yrkeskod": "grundlararefritidshem"
                     },
                     {
-                       "yrkeskod": "grundlarare13"
-                    },
-                    {
-                       "yrkeskod": "grundlarare46"
+                       "yrkeskod": "grundlararefk1346"
                     },
                     {
                        "yrkeskod": "amneslararegeografi"
@@ -2714,19 +3152,22 @@
                        "yrkeskod": "amneslararepsykologi"
                     },
                     {
-                       "yrkeskod": "amneslararefilosofi"
+                       "yrkeskod": "amneslararehistoriareligion"
                     },
                     {
-                       "yrkeskod": "amneslararehistoria"
-                    },
-                    {
-                       "yrkeskod": "amneslararejuridik"
-                    },
-                    {
-                       "yrkeskod": "amneslararereligion"
+                       "yrkeskod": "amneslararegyfilosofijuridik"
                     },
                     {
                        "yrkeskod": "amneslararesamhallskunskap"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
+                    },
+                    {
+                       "yrkeskod": "amneslararegydansteater"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
                     }
                  ]
               },
@@ -2743,7 +3184,7 @@
                        "yrkeskod": "landskapsarkitekt",
                        "alternativkod": "landskapsarkitekt1",
                        "tillval": [
-                          "Ma 3",
+                          "Ma 3b/3c",
                           "Nk 2"
                        ]
                     },
@@ -2778,45 +3219,37 @@
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararebiologi",
-                       "tillval": [
-                          "Ke 1",
-                          "Bi 1+2",
-                          "Ma 3b"
-                       ]
-                    },
-                    {
                        "yrkeskod": "amneslararekemi",
                        "tillval": [
                           "Bi 1",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                          "Ke 2",
+                          "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararematematik",
                        "tillval": [
-                          "Ma 3b+4"
+                          "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararenaturkunskap",
                        "tillval": [
-                          "Ma 3",
-                          "Nk 2"
+                        "Ma 3b/3c",
+                        "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "amneslarareteknik79",
                        "tillval": [
-                          "Ma 3",
-                          "Nk 2"
+                        "Ma 3b/3c",
+                        "Nk 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareforetagsekonomi",
+                       "yrkeskod": "amneslararegyforetagsekonomi",
                        "tillval": [
-                          "Ma 3b"
+                          "Ma 3b/3c"
                        ]
                     },
                     {
@@ -2827,6 +3260,7 @@
                        ]
                     },
                     {
+                     "kommentar": "ger behörighet om läst ämnet i grundskolan",
                        "yrkeskod": "amneslararemodernasprak",
                        "tillval": [
                           "Moderna språk - aktuellt språk 3"
@@ -2835,13 +3269,13 @@
                     {
                        "yrkeskod": "amneslararelatin",
                        "tillval": [
-                          "Latin språk och kultur 1+2"
+                          "Latin språk och kultur 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararegrekiska",
+                       "yrkeskod": "amneslararegygrekiska",
                        "tillval": [
-                          "Kl. Grek 1+2"
+                          "Kl. Grek 2"
                        ]
                     },
                     {
@@ -2851,15 +3285,17 @@
                        ]
                     },
                     {
-                       "yrkeskod": "sjokaptenochstyrman",
+                       "yrkeskod": "sjokapten",
                        "tillval": [
-                          "Fy 1a/1b1"
+                        "Fy 1a/1b1",
+                        "Ma 3b/3c"
                        ]
                     },
                     {
-                       "yrkeskod": "sjoingenjorochmaskintekniker",
+                       "yrkeskod": "sjoingenjor",
                        "tillval": [
-                          "Fy 1a/1b1"
+                        "Fy 1a/1b1",
+                        "Ma 3b/3c"
                        ]
                     },
                     {
@@ -2974,20 +3410,28 @@
                         "Ma 4"
                      ]
                   },
+                  {
+                     "yrkeskod": "amneslararebiologi",
+                     "tillval": [
+                        "Ke 1",
+                        "Bi 2",
+                        "Ma 3b/3c",
+                        "Sh 1b/(1a1+1a2)"
+                     ]
+                  },
                     {
                        "yrkeskod": "amneslararefysik",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ma 3b+4"
+                        "Fy 2",
+                        "Ma 4",
+                        "Sh 1b/(1a1+1a2)"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareteknik",
+                       "yrkeskod": "amneslarareteknikgy",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ma 3b+4"
+                        "Fy 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -2999,19 +3443,17 @@
                     {
                        "yrkeskod": "hogskoleingenjor",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ke 1",
-                          "Ma 3c"
+                        "Ke 1",
+                        "Fy 2",
+                        "Ma 3c"
                        ]
                     },
                     {
                        "yrkeskod": "ortopedingenjor",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ke 1",
-                          "Ma 3c"
+                        "Ke 1",
+                        "Fy 2",
+                        "Ma 3c"
                        ]
                     },
                     {
@@ -3026,31 +3468,30 @@
                        "yrkeskod": "civilingenjor",
                        "alternativkod": "civilingenjor1",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
+                        
                           "Fy 2",
                           "Ke 1",
-                          "Ma 3b+4"
+                          "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "civilingenjor",
                        "alternativkod": "civilingenjor2",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
+                      
                           "Fy 2",
-                          "Bi 1",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                         
+                          "Ke 1",
+                          "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "sjukhusfysiker",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 1",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -3066,28 +3507,28 @@
                     {
                        "yrkeskod": "hortonom",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "jagmastare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "receptarie",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -3102,31 +3543,25 @@
                     {
                        "yrkeskod": "lakare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "optiker",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandlakare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -3141,11 +3576,10 @@
                     {
                        "yrkeskod": "veterinar",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     }
                  ]
@@ -3178,10 +3612,7 @@
                        "yrkeskod": "grundlararefritidshem"
                     },
                     {
-                       "yrkeskod": "grundlarare13"
-                    },
-                    {
-                       "yrkeskod": "grundlarare46"
+                       "yrkeskod": "grundlararefk1346"
                     },
                     {
                        "yrkeskod": "amneslararegeografi"
@@ -3190,16 +3621,19 @@
                        "yrkeskod": "amneslararepsykologi"
                     },
                     {
-                       "yrkeskod": "amneslararefilosofi"
+                       "yrkeskod": "amneslararehistoriareligion"
                     },
                     {
-                       "yrkeskod": "amneslararehistoria"
+                       "yrkeskod": "amneslararegyfilosofijuridik"
                     },
                     {
-                       "yrkeskod": "amneslararejuridik"
+                       "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
                     },
                     {
-                       "yrkeskod": "amneslararereligion"
+                       "yrkeskod": "amneslararegydansteater"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
                     }
                  ]
               },
@@ -3216,7 +3650,7 @@
                        "yrkeskod": "landskapsarkitekt",
                        "alternativkod": "landskapsarkitekt1",
                        "tillval": [
-                          "Ma 3b",
+                          "Ma 3b/3c",
                           "Nk 2"
                        ]
                     },
@@ -3253,43 +3687,44 @@
                     {
                        "yrkeskod": "amneslararebiologi",
                        "tillval": [
-                          "Ke 1",
-                          "Bi 1+2",
-                          "Ma 3b"
+                        "Ke 1",
+                        "Bi 2",
+                        "Ma 3b/3c",
+                        "Sh 1b/(1a1+1a2)"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararekemi",
                        "tillval": [
                           "Bi 1",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                          "Ke 2",
+                          "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararematematik",
                        "tillval": [
-                          "Ma 3b+4"
+                          "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararenaturkunskap",
                        "tillval": [
-                          "Ma 3b",
+                        "Ma 3b/3c",
                           "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "amneslarareteknik79",
                        "tillval": [
-                          "Ma 3b",
-                          "Nk 2"
+                        "Ma 3b/3c",
+                        "Nk 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareforetagsekonomi",
+                       "yrkeskod": "amneslararegyforetagsekonomi",
                        "tillval": [
-                          "Ma 3b"
+                        "Ma 3b/3c"
                        ]
                     },
                     {
@@ -3306,6 +3741,7 @@
                        ]
                     },
                     {
+                     "kommentar": "ger behörighet om läst ämnet i grundskolan",
                        "yrkeskod": "amneslararemodernasprak",
                        "tillval": [
                           "Moderna språk - aktuellt språk 3"
@@ -3314,13 +3750,13 @@
                     {
                        "yrkeskod": "amneslararelatin",
                        "tillval": [
-                          "Latin språk och kultur 1+2"
+                          "Latin språk och kultur 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararegrekiska",
+                       "yrkeskod": "amneslararegygrekiska",
                        "tillval": [
-                          "Kl. Grek 1+2"
+                          "Kl. Grek 2"
                        ]
                     },
                     {
@@ -3330,15 +3766,17 @@
                        ]
                     },
                     {
-                       "yrkeskod": "sjokaptenochstyrman",
+                       "yrkeskod": "sjokapten",
                        "tillval": [
-                          "Fy 1a/1b1"
+                        "Fy 1a/1b1",
+                        "Ma 3b/3c"
                        ]
                     },
                     {
-                       "yrkeskod": "sjoingenjorochmaskintekniker",
+                       "yrkeskod": "sjoingenjor",
                        "tillval": [
-                          "Fy 1a/1b1"
+                        "Fy 1a/1b1",
+                        "Ma 3b/3c"
                        ]
                     },
                     {
@@ -3456,17 +3894,16 @@
                     {
                        "yrkeskod": "amneslararefysik",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ma 3b+4"
+                        "Fy 2",
+                        "Ma 4",
+                        "Sh 1b/(1a1+1a2)"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareteknik",
+                       "yrkeskod": "amneslarareteknikgy",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ma 3b+4"
+                        "Fy 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -3478,19 +3915,17 @@
                     {
                        "yrkeskod": "hogskoleingenjor",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ke 1",
-                          "Ma 3c"
+                        "Ke 1",
+                        "Fy 2",
+                        "Ma 3c"
                        ]
                     },
                     {
                        "yrkeskod": "ortopedingenjor",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Ke 1",
-                          "Ma 3c"
+                        "Ke 1",
+                        "Fy 2",
+                        "Ma 3c"
                        ]
                     },
                     {
@@ -3505,31 +3940,30 @@
                        "yrkeskod": "civilingenjor",
                        "alternativkod": "civilingenjor1",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
+                        
                           "Fy 2",
                           "Ke 1",
-                          "Ma 3b+4"
+                          "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "civilingenjor",
                        "alternativkod": "civilingenjor2",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
+                         
                           "Fy 2",
-                          "Bi 1",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        
+                          "Ke 1",
+                          "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "sjukhusfysiker",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 1",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -3545,28 +3979,28 @@
                     {
                        "yrkeskod": "hortonom",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "jagmastare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "receptarie",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 1a/(1b1+1b2)",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -3581,31 +4015,25 @@
                     {
                        "yrkeskod": "lakare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "optiker",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandlakare",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
@@ -3620,11 +4048,10 @@
                     {
                        "yrkeskod": "veterinar",
                        "tillval": [
-                          "Fy 1a/(1b1+1b2)",
-                          "Fy 2",
-                          "Bi 1+2",
-                          "Ke 1+2",
-                          "Ma 3b+4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     }
                  ]
@@ -3641,8 +4068,8 @@
   {
      "inriktningar": [
         {
-           "inriktningsnamn": "Design/Info/Prod/Samhälle",
-           "inriktningskod": "tedips",
+           "inriktningsnamn": "Design och produktutveckling",
+           "inriktningskod": "tedp",
            "behorigheter": [
               {
                  "kategori": "A",
@@ -3661,7 +4088,7 @@
                        "yrkeskod": "studieochyrkesvagledare"
                     },
                     {
-                       "yrkeskod": "amneslarareforetagsekonomi"
+                       "yrkeskod": "amneslararegyforetagsekonomi"
                     },
                     {
                        "yrkeskod": "amneslararegeografi"
@@ -3670,13 +4097,22 @@
                        "yrkeskod": "amneslararepsykologi"
                     },
                     {
-                       "yrkeskod": "sjokaptenochstyrman"
+                       "yrkeskod": "sjokapten"
                     },
                     {
-                       "yrkeskod": "sjoingenjorochmaskintekniker"
+                       "yrkeskod": "sjoingenjor"
                     },
                     {
                        "yrkeskod": "arkitekt"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
+                    },
+                    {
+                       "yrkeskod": "amneslararegydansteater"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
                     }
                  ]
               },
@@ -3704,7 +4140,7 @@
                     {
                        "yrkeskod": "jurist",
                        "tillval": [
-                          "Hi 1a2"
+                          "Hi 1b/(1a1+1a2)"
                        ]
                     },
                     {
@@ -3717,7 +4153,7 @@
                        "yrkeskod": "landskapsarkitekt",
                        "alternativkod": "landskapsarkitekt1",
                        "tillval": [
-                          "Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
@@ -3739,31 +4175,25 @@
                     {
                        "yrkeskod": "forskolelarare",
                        "tillval": [
-                          "Bi 1/Nk 1"
+                          "Nk 1b/(1a1+1a2)"
                        ]
                     },
                     {
                        "yrkeskod": "grundlararefritidshem",
                        "tillval": [
-                          "Bi 1/Nk 1"
+                          "Nk 1b/(1a1+1a2)"
                        ]
                     },
                     {
-                       "yrkeskod": "grundlarare13",
+                       "yrkeskod": "grundlararefk1346",
                        "tillval": [
-                          "Bi 1/Nk 1"
-                       ]
-                    },
-                    {
-                       "yrkeskod": "grundlarare46",
-                       "tillval": [
-                          "Bi 1/Nk 1"
+                          "Nk 1b/(1a1+1a2)"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararebiologi",
                        "tillval": [
-                          "Bi 1+2"
+                          "Bi 2"
                        ]
                     },
                     {
@@ -3782,7 +4212,7 @@
                        ]
                     },
                     {
-                       "yrkeskod": "amneslarareteknik",
+                       "yrkeskod": "amneslarareteknikgy",
                        "tillval": [
                           "Fy 2",
                           "Ma 4"
@@ -3797,32 +4227,26 @@
                     {
                        "yrkeskod": "amneslararenaturkunskap",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararefilosofi",
+                       "yrkeskod": "amneslararehistoriareligion",
                        "tillval": [
-                          "Hi 1a2"
-                       ]
-                    },
-                    {
-                       "yrkeskod": "amneslararehistoria",
-                       "tillval": [
-                          "Hi 1a2"
+                          "Hi 1b/(1a1+1a2)"
                        ]
                     },
                     {
                        "yrkeskod": "amneslarareteknik79",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "amneslarareidrottochhalsa",
                        "tillval": [
                           "Idh 2",
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
@@ -3832,15 +4256,9 @@
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararejuridik",
+                       "yrkeskod": "amneslararegyfilosofijuridik",
                        "tillval": [
-                          "Hi 1a2"
-                       ]
-                    },
-                    {
-                       "yrkeskod": "amneslararereligion",
-                       "tillval": [
-                          "Hi 1a2"
+                        "Hi 1b/(1a1+1a2)"
                        ]
                     },
                     {
@@ -3852,13 +4270,13 @@
                     {
                        "yrkeskod": "amneslararelatin",
                        "tillval": [
-                          "Latin språk och kultur 1+2"
+                          "Latin språk och kultur 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararegrekiska",
+                       "yrkeskod": "amneslararegygrekiska",
                        "tillval": [
-                          "Kl. Grek 1+2"
+                          "Kl. Grek 2"
                        ]
                     },
                     {
@@ -3898,10 +4316,9 @@
                        "yrkeskod": "civilingenjor",
                        "alternativkod": "civilingenjor2",
                        "tillval": [
-                          "Bi 1",
                           "Fy 2",
-                          "Ke 2",
-                          "Ma 4"
+                          "Ma 4",
+                          "Moderna språk - aktuellt språk 3"
                        ]
                     },
                     {
@@ -3916,7 +4333,7 @@
                     {
                        "yrkeskod": "hortonom",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Ke 2",
                           "Ma 4"
                        ]
@@ -3924,7 +4341,7 @@
                     {
                        "yrkeskod": "jagmastare",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Ke 2",
                           "Ma 4"
                        ]
@@ -3932,7 +4349,7 @@
                     {
                        "yrkeskod": "receptarie",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Ke 2",
                           "Ma 4"
                        ]
@@ -3947,25 +4364,22 @@
                     {
                        "yrkeskod": "lakare",
                        "tillval": [
-                          "Bi 1+2",
-                          "Fy 2",
-                          "Ke 2",
-                          "Ma 4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "optiker",
                        "tillval": [
-                          "Bi 1+2",
-                          "Fy 2",
-                          "Ke 2",
-                          "Ma 4"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandlakare",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Fy 2",
                           "Ke 2",
                           "Ma 4"
@@ -3983,58 +4397,59 @@
                     {
                        "yrkeskod": "veterinar",
                        "tillval": [
-                          "Bi 1+2",
-                          "Fy 2",
-                          "Ke 2",
-                          "Ma 4"
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
                        ]
                     },
                     {
                        "yrkeskod": "sjukskoterska",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "skogsmastare",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "skogstekniker",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandhygienist",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandtekniker",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
+                      
                        "yrkeskod": "landskapsingenjor",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2/Bi 1"
                        ]
                     },
                     {
                        "yrkeskod": "tradgardsingenjor",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "dietist",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
@@ -4052,37 +4467,37 @@
                     {
                        "yrkeskod": "logoped",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2/Bi 1"
                        ]
                     },
                     {
                        "yrkeskod": "rontgensjukskoterska",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "lantmastare",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2/Bi 1"
                        ]
                     },
                     {
                        "yrkeskod": "djursjukvardare",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "hippolog",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "fysioterapeutsjukgymnast",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     }
                  ]
@@ -4100,6 +4515,1350 @@
               }
            ]
         },
+        {
+         "inriktningsnamn": "Informations- och medieteknik",
+         "inriktningskod": "teim",
+         "behorigheter": [
+            {
+               "kategori": "A",
+               "yrken": [
+                  {
+                     "yrkeskod": "civilekonom",
+                     "alternativkod": "civilekonom1"
+                  },
+                  {
+                     "yrkeskod": "psykolog"
+                  },
+                  {
+                     "yrkeskod": "socionom"
+                  },
+                  {
+                     "yrkeskod": "studieochyrkesvagledare"
+                  },
+                  {
+                     "yrkeskod": "amneslararegyforetagsekonomi"
+                  },
+                  {
+                     "yrkeskod": "amneslararegeografi"
+                  },
+                  {
+                     "yrkeskod": "amneslararepsykologi"
+                  },
+                  {
+                     "yrkeskod": "sjokapten"
+                  },
+                  {
+                     "yrkeskod": "sjoingenjor"
+                  },
+                  {
+                     "yrkeskod": "arkitekt"
+                  },
+                  {
+                     "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
+                  },
+                  {
+                     "yrkeskod": "amneslararegydansteater"
+                  },
+                  {
+                     "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
+                  }
+               ]
+            },
+            {
+               "kategori": "B",
+               "yrken": [
+                {
+                   "yrkeskod": "civilingenjor",
+                   "alternativkod": "civilingenjor3",
+                   "grundlbeh": "true",
+                   "tillval": [
+                      "Bi 1",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                   ]
+                },
+                {
+                   "yrkeskod": "civilekonom",
+                   "alternativkod": "civilekonom2",
+                   "tillval": [
+                      "Moderna språk - aktuellt språk 3"
+                   ]
+                },
+                  {
+                     "yrkeskod": "jurist",
+                     "tillval": [
+                        "Hi 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "utbildningarinomsprakomradet",
+                     "tillval": [
+                        "Moderna språk - aktuellt språk 3"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "landskapsarkitekt",
+                     "alternativkod": "landskapsarkitekt1",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "agronom",
+                     "alternativkod": "agronom1",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "agronom",
+                     "alternativkod": "agronom2",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "forskolelarare",
+                     "tillval": [
+                        "Nk 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "grundlararefritidshem",
+                     "tillval": [
+                        "Nk 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "grundlararefk1346",
+                     "tillval": [
+                        "Nk 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararebiologi",
+                     "tillval": [
+                        "Bi 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararekemi",
+                     "tillval": [
+                        "Bi 1",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararefysik",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareteknikgy",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararematematik",
+                     "tillval": [
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararenaturkunskap",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararehistoriareligion",
+                     "tillval": [
+                        "Hi 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareteknik79",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareidrottochhalsa",
+                     "tillval": [
+                        "Idh 2",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararesamhallskunskap",
+                     "tillval": [
+                        "Sh 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararegyfilosofijuridik",
+                     "tillval": [
+                      "Hi 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararemodernasprak",
+                     "tillval": [
+                        "Moderna språk - aktuellt språk 3"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararelatin",
+                     "tillval": [
+                        "Latin språk och kultur 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararegygrekiska",
+                     "tillval": [
+                        "Kl. Grek 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararemodersmal",
+                     "tillval": [
+                        "Modersmål 1+2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "hogskoleingenjor",
+                     "tillval": [
+                        "Fy 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "ortopedingenjor",
+                     "tillval": [
+                        "Fy 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "brandingenjor",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "civilingenjor",
+                     "alternativkod": "civilingenjor1",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "civilingenjor",
+                     "alternativkod": "civilingenjor2",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4",
+                        "Moderna språk - aktuellt språk 3"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "sjukhusfysiker",
+                     "tillval": [
+                        "Bi 1",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "hortonom",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "jagmastare",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "receptarie",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "biomedicinskanalytiker",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "lakare",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "optiker",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tandlakare",
+                     "tillval": [
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "apotekare",
+                     "tillval": [
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "veterinar",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "sjukskoterska",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "skogsmastare",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "skogstekniker",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tandhygienist",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tandtekniker",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                    
+                     "yrkeskod": "landskapsingenjor",
+                     "tillval": [
+                        "Nk 2/Bi 1"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tradgardsingenjor",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "dietist",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "arbetsterapeut",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "audionom",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "logoped",
+                     "tillval": [
+                        "Nk 2/Bi 1"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "rontgensjukskoterska",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "lantmastare",
+                     "tillval": [
+                        "Nk 2/Bi 1"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "djursjukvardare",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "hippolog",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "fysioterapeutsjukgymnast",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  }
+               ]
+            },
+            {
+               "kategori": "C",
+               "yrken": [
+                  {
+                     "yrkeskod": "amneslarareteckensprak",
+                     "tillval": [
+                        "Svenskt teckenspråk för hörande 1+2+3"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "inriktningsnamn": "Produktionsteknik",
+         "inriktningskod": "tept",
+         "behorigheter": [
+            {
+               "kategori": "A",
+               "yrken": [
+                  {
+                     "yrkeskod": "civilekonom",
+                     "alternativkod": "civilekonom1"
+                  },
+                  {
+                     "yrkeskod": "psykolog"
+                  },
+                  {
+                     "yrkeskod": "socionom"
+                  },
+                  {
+                     "yrkeskod": "studieochyrkesvagledare"
+                  },
+                  {
+                     "yrkeskod": "amneslararegyforetagsekonomi"
+                  },
+                  {
+                     "yrkeskod": "amneslararegeografi"
+                  },
+                  {
+                     "yrkeskod": "amneslararepsykologi"
+                  },
+                  {
+                     "yrkeskod": "sjokapten"
+                  },
+                  {
+                     "yrkeskod": "sjoingenjor"
+                  },
+                  {
+                     "yrkeskod": "arkitekt"
+                  },
+                  {
+                     "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
+                  },
+                  {
+                     "yrkeskod": "amneslararegydansteater"
+                  },
+                  {
+                     "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
+                  }
+               ]
+            },
+            {
+               "kategori": "B",
+               "yrken": [
+                {
+                   "yrkeskod": "civilingenjor",
+                   "alternativkod": "civilingenjor3",
+                   "grundlbeh": "true",
+                   "tillval": [
+                      "Bi 1",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                   ]
+                },
+                {
+                   "yrkeskod": "civilekonom",
+                   "alternativkod": "civilekonom2",
+                   "tillval": [
+                      "Moderna språk - aktuellt språk 3"
+                   ]
+                },
+                  {
+                     "yrkeskod": "jurist",
+                     "tillval": [
+                        "Hi 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "utbildningarinomsprakomradet",
+                     "tillval": [
+                        "Moderna språk - aktuellt språk 3"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "landskapsarkitekt",
+                     "alternativkod": "landskapsarkitekt1",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "agronom",
+                     "alternativkod": "agronom1",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "agronom",
+                     "alternativkod": "agronom2",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "forskolelarare",
+                     "tillval": [
+                        "Nk 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "grundlararefritidshem",
+                     "tillval": [
+                        "Nk 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "grundlararefk1346",
+                     "tillval": [
+                        "Nk 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararebiologi",
+                     "tillval": [
+                        "Bi 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararekemi",
+                     "tillval": [
+                        "Bi 1",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararefysik",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareteknikgy",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararematematik",
+                     "tillval": [
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararenaturkunskap",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararehistoriareligion",
+                     "tillval": [
+                        "Hi 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareteknik79",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareidrottochhalsa",
+                     "tillval": [
+                        "Idh 2",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararesamhallskunskap",
+                     "tillval": [
+                        "Sh 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararegyfilosofijuridik",
+                     "tillval": [
+                      "Hi 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararemodernasprak",
+                     "tillval": [
+                        "Moderna språk - aktuellt språk 3"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararelatin",
+                     "tillval": [
+                        "Latin språk och kultur 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararegygrekiska",
+                     "tillval": [
+                        "Kl. Grek 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararemodersmal",
+                     "tillval": [
+                        "Modersmål 1+2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "hogskoleingenjor",
+                     "tillval": [
+                        "Fy 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "ortopedingenjor",
+                     "tillval": [
+                        "Fy 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "brandingenjor",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "civilingenjor",
+                     "alternativkod": "civilingenjor1",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "civilingenjor",
+                     "alternativkod": "civilingenjor2",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4",
+                        "Moderna språk - aktuellt språk 3"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "sjukhusfysiker",
+                     "tillval": [
+                        "Bi 1",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "hortonom",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "jagmastare",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "receptarie",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "biomedicinskanalytiker",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "lakare",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "optiker",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tandlakare",
+                     "tillval": [
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "apotekare",
+                     "tillval": [
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "veterinar",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "sjukskoterska",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "skogsmastare",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "skogstekniker",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tandhygienist",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tandtekniker",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                    
+                     "yrkeskod": "landskapsingenjor",
+                     "tillval": [
+                        "Nk 2/Bi 1"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tradgardsingenjor",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "dietist",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "arbetsterapeut",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "audionom",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "logoped",
+                     "tillval": [
+                        "Nk 2/Bi 1"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "rontgensjukskoterska",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "lantmastare",
+                     "tillval": [
+                        "Nk 2/Bi 1"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "djursjukvardare",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "hippolog",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "fysioterapeutsjukgymnast",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  }
+               ]
+            },
+            {
+               "kategori": "C",
+               "yrken": [
+                  {
+                     "yrkeskod": "amneslarareteckensprak",
+                     "tillval": [
+                        "Svenskt teckenspråk för hörande 1+2+3"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "inriktningsnamn": "Samhällsbyggande och miljö",
+         "inriktningskod": "tesm",
+         "behorigheter": [
+            {
+               "kategori": "A",
+               "yrken": [
+                  {
+                     "yrkeskod": "civilekonom",
+                     "alternativkod": "civilekonom1"
+                  },
+                  {
+                     "yrkeskod": "psykolog"
+                  },
+                  {
+                     "yrkeskod": "socionom"
+                  },
+                  {
+                     "yrkeskod": "studieochyrkesvagledare"
+                  },
+                  {
+                     "yrkeskod": "amneslararegyforetagsekonomi"
+                  },
+                  {
+                     "yrkeskod": "amneslararegeografi"
+                  },
+                  {
+                     "yrkeskod": "amneslararepsykologi"
+                  },
+                  {
+                     "yrkeskod": "sjokapten"
+                  },
+                  {
+                     "yrkeskod": "sjoingenjor"
+                  },
+                  {
+                     "yrkeskod": "arkitekt"
+                  },
+                  {
+                     "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
+                  },
+                  {
+                     "yrkeskod": "amneslararegydansteater"
+                  },
+                  {
+                     "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
+                  }
+               ]
+            },
+            {
+               "kategori": "B",
+               "yrken": [
+                {
+                   "yrkeskod": "civilingenjor",
+                   "alternativkod": "civilingenjor3",
+                   "grundlbeh": "true",
+                   "tillval": [
+                      "Bi 1",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                   ]
+                },
+                {
+                   "yrkeskod": "civilekonom",
+                   "alternativkod": "civilekonom2",
+                   "tillval": [
+                      "Moderna språk - aktuellt språk 3"
+                   ]
+                },
+                  {
+                     "yrkeskod": "jurist",
+                     "tillval": [
+                        "Hi 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "utbildningarinomsprakomradet",
+                     "tillval": [
+                        "Moderna språk - aktuellt språk 3"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "landskapsarkitekt",
+                     "alternativkod": "landskapsarkitekt1",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "agronom",
+                     "alternativkod": "agronom1",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "agronom",
+                     "alternativkod": "agronom2",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "forskolelarare",
+                     "tillval": [
+                        "Nk 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "grundlararefritidshem",
+                     "tillval": [
+                        "Nk 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "grundlararefk1346",
+                     "tillval": [
+                        "Nk 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararebiologi",
+                     "tillval": [
+                        "Bi 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararekemi",
+                     "tillval": [
+                        "Bi 1",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararefysik",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareteknikgy",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararematematik",
+                     "tillval": [
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararenaturkunskap",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararehistoriareligion",
+                     "tillval": [
+                        "Hi 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareteknik79",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslarareidrottochhalsa",
+                     "tillval": [
+                        "Idh 2",
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararesamhallskunskap",
+                     "tillval": [
+                        "Sh 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararegyfilosofijuridik",
+                     "tillval": [
+                      "Hi 1b/(1a1+1a2)"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararemodernasprak",
+                     "tillval": [
+                        "Moderna språk - aktuellt språk 3"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararelatin",
+                     "tillval": [
+                        "Latin språk och kultur 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararegygrekiska",
+                     "tillval": [
+                        "Kl. Grek 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "amneslararemodersmal",
+                     "tillval": [
+                        "Modersmål 1+2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "hogskoleingenjor",
+                     "tillval": [
+                        "Fy 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "ortopedingenjor",
+                     "tillval": [
+                        "Fy 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "brandingenjor",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "civilingenjor",
+                     "alternativkod": "civilingenjor1",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "civilingenjor",
+                     "alternativkod": "civilingenjor2",
+                     "tillval": [
+                        "Fy 2",
+                        "Ma 4",
+                        "Moderna språk - aktuellt språk 3"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "sjukhusfysiker",
+                     "tillval": [
+                        "Bi 1",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "hortonom",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "jagmastare",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "receptarie",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "biomedicinskanalytiker",
+                     "tillval": [
+                        "Bi 2",
+                        "Ke 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "lakare",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "optiker",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tandlakare",
+                     "tillval": [
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "apotekare",
+                     "tillval": [
+                        "Bi 2",
+                        "Fy 2",
+                        "Ke 2",
+                        "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "veterinar",
+                     "tillval": [
+                      "Bi 2",
+                      "Fy 2",
+                      "Ke 2",
+                      "Ma 4"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "sjukskoterska",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "skogsmastare",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "skogstekniker",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tandhygienist",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tandtekniker",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                    
+                     "yrkeskod": "landskapsingenjor",
+                     "tillval": [
+                        "Nk 2/Bi 1"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "tradgardsingenjor",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "dietist",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "arbetsterapeut",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "audionom",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "logoped",
+                     "tillval": [
+                        "Nk 2/Bi 1"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "rontgensjukskoterska",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "lantmastare",
+                     "tillval": [
+                        "Nk 2/Bi 1"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "djursjukvardare",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "hippolog",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  },
+                  {
+                     "yrkeskod": "fysioterapeutsjukgymnast",
+                     "tillval": [
+                        "Nk 2"
+                     ]
+                  }
+               ]
+            },
+            {
+               "kategori": "C",
+               "yrken": [
+                  {
+                     "yrkeskod": "amneslarareteckensprak",
+                     "tillval": [
+                        "Svenskt teckenspråk för hörande 1+2+3"
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
         {
            "inriktningsnamn": "Teknikvetenskap",
            "inriktningskod": "tetek",
@@ -4124,13 +5883,13 @@
                        "yrkeskod": "amneslararefysik"
                     },
                     {
-                       "yrkeskod": "amneslarareteknik"
+                       "yrkeskod": "amneslarareteknikgy"
                     },
                     {
                        "yrkeskod": "amneslararematematik"
                     },
                     {
-                       "yrkeskod": "amneslarareforetagsekonomi"
+                       "yrkeskod": "amneslararegyforetagsekonomi"
                     },
                     {
                        "yrkeskod": "amneslararegeografi"
@@ -4139,10 +5898,10 @@
                        "yrkeskod": "amneslararepsykologi"
                     },
                     {
-                       "yrkeskod": "sjokaptenochstyrman"
+                       "yrkeskod": "sjokapten"
                     },
                     {
-                       "yrkeskod": "sjoingenjorochmaskintekniker"
+                       "yrkeskod": "sjoingenjor"
                     },
                     {
                        "yrkeskod": "hogskoleingenjor"
@@ -4159,6 +5918,15 @@
                     },
                     {
                        "yrkeskod": "arkitekt"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79bildengelskamusiksvsv2"
+                    },
+                    {
+                       "yrkeskod": "amneslararegydansteater"
+                    },
+                    {
+                       "yrkeskod": "amneslarare79hemkonsumentkunskapslojd"
                     }
                  ]
               },
@@ -4171,9 +5939,9 @@
                      "grundlbeh": "true",
                      "tillval": [
                         "Bi 1",
-                        "Fy 2",
-                        "Ke 2",
-                        "Ma 4"
+                    
+                        "Ke 2"
+                       
                      ]
                   },
                   {
@@ -4186,7 +5954,7 @@
                     {
                        "yrkeskod": "jurist",
                        "tillval": [
-                          "Hi 1a2"
+                          "Hi 1b/(1a1+1a2)"
                        ]
                     },
                     {
@@ -4199,44 +5967,38 @@
                        "yrkeskod": "landskapsarkitekt",
                        "alternativkod": "landskapsarkitekt1",
                        "tillval": [
-                          "Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "agronom",
                        "alternativkod": "agronom1",
                        "tillval": [
-                          "Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "forskolelarare",
                        "tillval": [
-                          "Bi 1/Nk 1"
+                          "Nk 1b/(1a1+1a2)"
                        ]
                     },
                     {
                        "yrkeskod": "grundlararefritidshem",
                        "tillval": [
-                          "Bi 1/Nk 1"
+                          "Nk 1b/(1a1+1a2)"
                        ]
                     },
                     {
-                       "yrkeskod": "grundlarare13",
+                       "yrkeskod": "grundlararefk1346",
                        "tillval": [
-                          "Bi 1/Nk 1"
-                       ]
-                    },
-                    {
-                       "yrkeskod": "grundlarare46",
-                       "tillval": [
-                          "Bi 1/Nk 1"
+                          "Nk 1b/(1a1+1a2)"
                        ]
                     },
                     {
                        "yrkeskod": "amneslararebiologi",
                        "tillval": [
-                          "Bi 1+2"
+                          "Bi 2"
                        ]
                     },
                     {
@@ -4249,20 +6011,20 @@
                     {
                        "yrkeskod": "amneslararenaturkunskap",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "amneslarareteknik79",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "amneslarareidrottochhalsa",
                        "tillval": [
                           "Idh 2",
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
@@ -4272,27 +6034,15 @@
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararefilosofi",
+                       "yrkeskod": "amneslararehistoriareligion",
                        "tillval": [
-                          "Hi 1a2"
+                          "Hi 1b/(1a1+1a2)"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararehistoria",
+                       "yrkeskod": "amneslararegyfilosofijuridik",
                        "tillval": [
-                          "Hi 1a2"
-                       ]
-                    },
-                    {
-                       "yrkeskod": "amneslararejuridik",
-                       "tillval": [
-                          "Hi 1a2"
-                       ]
-                    },
-                    {
-                       "yrkeskod": "amneslararereligion",
-                       "tillval": [
-                          "Hi 1a2"
+                          "Hi 1b/(1a1+1a2)"
                        ]
                     },
                     {
@@ -4304,13 +6054,13 @@
                     {
                        "yrkeskod": "amneslararelatin",
                        "tillval": [
-                          "Latin språk och kultur 1+2"
+                          "Latin språk och kultur 2"
                        ]
                     },
                     {
-                       "yrkeskod": "amneslararegrekiska",
+                       "yrkeskod": "amneslararegygrekiska",
                        "tillval": [
-                          "Kl. Grek 1+2"
+                          "Kl. Grek 2"
                        ]
                     },
                     {
@@ -4323,8 +6073,7 @@
                        "yrkeskod": "civilingenjor",
                        "alternativkod": "civilingenjor2",
                        "tillval": [
-                          "Bi 1",
-                          "Ke 2"
+                          "Moderna språk - aktuellt språk 3"
                        ]
                     },
                     {
@@ -4338,28 +6087,28 @@
                        "yrkeskod": "agronom",
                        "alternativkod": "agronom2",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Ke 2"
                        ]
                     },
                     {
                        "yrkeskod": "hortonom",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Ke 2"
                        ]
                     },
                     {
                        "yrkeskod": "jagmastare",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Ke 2"
                        ]
                     },
                     {
                        "yrkeskod": "receptarie",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Ke 2"
                        ]
                     },
@@ -4373,21 +6122,20 @@
                     {
                        "yrkeskod": "lakare",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Ke 2"
                        ]
                     },
                     {
                        "yrkeskod": "optiker",
                        "tillval": [
-                          "Bi 1+2",
-                          "Ke 2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandlakare",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Ke 2"
                        ]
                     },
@@ -4401,56 +6149,56 @@
                     {
                        "yrkeskod": "veterinar",
                        "tillval": [
-                          "Bi 1+2",
+                          "Bi 2",
                           "Ke 2"
                        ]
                     },
                     {
                        "yrkeskod": "sjukskoterska",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "skogsmastare",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "skogstekniker",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandhygienist",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tandtekniker",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "landskapsingenjor",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "tradgardsingenjor",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "dietist",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
@@ -4468,31 +6216,31 @@
                     {
                        "yrkeskod": "logoped",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "lantmastare",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "rontgensjukskoterska",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "djursjukvardare",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {
                        "yrkeskod": "hippolog",
                        "tillval": [
-                          "Bi 1/Nk 1+2"
+                          "Nk 2"
                        ]
                     },
                     {

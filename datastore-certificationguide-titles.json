@@ -1,0 +1,771 @@
+[
+  {
+    "yrkeskod": "jurist",
+    "kurser":     [
+      "Hi 1b/(1a1+1a2)",
+      "Sh 1b/(1a1+1a2)"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Jurist"
+  },
+  {
+    "yrkeskod": "utbildningarinomsprakomradet",
+    "kurser": ["Moderna språk - aktuellt språk 3"],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Utbildningar inom språkområdet"
+  },
+  {
+    "yrkeskod": "landskapsarkitekt",
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Landskapsarkitekt",
+    "kurser":       [
+      "Sh 1b/(1a1+1a2)",
+      "Ma 3b/3c",
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))"
+    ]
+  },
+  {
+    "yrkeskod": "arkitekt",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Ma 3b/3c",
+      "Nk 2 alt.(Ke 1+Fy 1a/(1b1+1b2))"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Arkitekt"
+  },
+  {
+    "yrkeskod": "agronom",
+    "grundlbeh": "true",
+    "dstimestamp": 1582017759827,
+    "fritext": "Här är en fritext som visar för agronomyrket. ",
+    "yrke": "Agronom",
+    "yrkesalternativ":     [
+            {
+        "alternativkod": "agronom1",
+        "kurser":         [
+          "Sh 1b/(1a1+1a2)",
+          "Ma 3b/ 3c",
+          "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))"
+        ]
+      },
+            {
+        "alternativkod": "agronom2",
+        "kurser":         [
+          "Fy 1a/(1b1+1b2)",
+          "Bi 2",
+          "Ke 2",
+          "Ma 4"
+        ]
+      }
+    ]
+  },
+  {
+    "yrkeskod": "civilekonom",
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Civilekonom",
+    "yrkesalternativ":     [
+            {
+        "alternativkod": "civilekonom1",
+        "kurser":         [
+          "Sh 1b/(1a1+1a2)",
+          "Ma 3b/3c"
+        ]
+      },
+            {
+        "alternativkod": "civilekonom2",
+        "kurser":         [
+          "Sh 1b/(1a1+1a2)",
+          "Ma 3b/3c",
+          "Moderna språk – aktuellt språk 3"
+        ]
+      }
+    ]
+  },
+  {
+    "yrkeskod": "psykolog",
+    "kurser":     [
+      "Sh 1b/(Sh 1a1+1a2)",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Psykolog"
+  },
+  {
+    "yrkeskod": "socionom",
+    "kurser":     [
+      "Sh 1b/(Sh 1a1+1a2)",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Socionomexamen"
+  },
+  {
+    "yrkeskod": "studieochyrkesvagledare",
+    "kurser": ["Sh 1b/(1a1+1a2)"],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Studie-och yrkesvägledare"
+  },
+  {
+    "yrkeskod": "forskolelarare",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Nk 1b/(Nk 1a1+1a2) alt.(Bi 1+Ke 1+ Fy(1b1+1b2))"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Förskollärarexamen och utbildning som leder till grundlärarexamen med inriktning mot arbete i fritidshem "
+  },
+  {
+    "yrkeskod": "grundlararefritidshem",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Nk 1b/(Nk 1a1+1a2)"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Grundlärare fritidshem"
+  },
+  {
+    "yrkeskod": "grundlararefk1346",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Ma 2a/2b/2c",
+      "Nk 1b/(Nk 1a1+1a2) alt.(Bi 1+Ke 1+ Fy 1a/(1b1+1b2))"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Grundlärare fk, 1-3 och 4-6"
+  },
+  {
+    "yrkeskod": "amneslararehemkonsumentkunskapslojd",
+    "kurser": ["Sh 1b/(1a1+1a2)"],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Hem- och konsumentkunskap och slöjd"
+  },
+  {
+    "yrkeskod": "amneslararedansteater",
+    "kurser": ["Sh 1b/(1a1+1a2)"],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Dans och Teater"
+  },
+  {
+    "yrkeskod": "amneslararesprak",
+    "kurser": ["Sh 1b/(1a1+1a2)"],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Bild, Engelska, Musik, Svenska och Svenska som andraspråk"
+  },
+  {
+    "yrkeskod": "amneslararebiologi",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Ke 1",
+      "Bi 2",
+      "Ma 3b/3c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Biologi"
+  },
+  {
+    "yrkeskod": "amneslararekemi",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Bi 1",
+      "Ke 2",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Kemi"
+  },
+  {
+    "yrkeskod": "amneslararefysik",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Fy 2",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Fysik"
+  },
+  {
+    "yrkeskod": "amneslarareteknikgy",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Fy 2",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare gy Teknik"
+  },
+  {
+    "yrkeskod": "amneslararematematik",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Matematik"
+  },
+  {
+    "yrkeskod": "amneslararenaturkunskap",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Ma 3b/3c",
+      "Nk 2 alt. (Bi 1+Ke 1+fy 1a/(1b1+1b2))"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Naturkunskap"
+  },
+  {
+    "yrkeskod": "amneslarareteknik79",
+    "kurser":     [
+      "Sh 1b(1a1+1a2)",
+      "Ma 3b/3c",
+      "Nk 2 alt. (Bi 1+Ke 1+fy 1a/(1b1+1b2))"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Teknik (7-9)"
+  },
+  {
+    "yrkeskod": "amneslararegeografi",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Geografi (7-9, gy)"
+  },
+  {
+    "yrkeskod": "amneslararepsykologi",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Psykologi"
+  },
+  {
+    "yrkeskod": "amneslarareidrottochhalsa",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Idh 2/motsv.",
+      "Ma 2a/2b/2c",
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a /(1b1+1b2)sjokapten"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Idrott och hälsa"
+  },
+  {
+    "yrkeskod": "amneslararesamhallskunskap",
+    "kurser":     [
+      "Ma 2a/2b/2c",
+      "Sh 2"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Samhällskunskap"
+  },
+  {
+    "yrkeskod": "amneslararemodernasprak",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Moderna språk - aktuellt språk 3"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Moderna språk"
+  },
+  {
+    "yrkeskod": "amneslararelatin",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Latin - Språk och kultur 2"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Latin"
+  },
+  {
+    "yrkeskod": "amneslararegrekiska",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Klassisk grekiska - språk och kultur 2"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Grekiska"
+  },
+  {
+    "yrkeskod": "amneslararemodersmal",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Modersmål 2/ motsv."
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Modersmål"
+  },
+  {
+    "yrkeskod": "amneslarareteckensprak",
+    "kurser":     [
+      "Sh 1b/(1a1+1a2)",
+      "Sv. teckenspråk för hörande 3/motsv."
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ämneslärare Teckenspråk"
+  },
+  {
+    "yrkeskod": "sjokapten",
+    "kurser":     [
+      "Ma 3b/3c",
+      "Fy 1a/1b1"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Sjökapten"
+  },
+  {
+    "yrkeskod": "sjoingenjor",
+    "kurser":     [
+      "Ma 3b/3c",
+      "Fy 1a/1b1"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Sjöingenjörsexamen"
+  },
+  {
+    "yrkeskod": "hogskoleingenjor",
+    "kurser":     [
+      "Ke 1",
+      "Fy 2",
+      "Ma 3c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Högskoleingenjör"
+  },
+  {
+    "yrkeskod": "ortopedingenjor",
+    "kurser":     [
+      "Ke 1",
+      "Fy 2",
+      "Ma 3c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Ortopedingenjör"
+  },
+  {
+    "yrkeskod": "brandingenjor",
+    "kurser":     [
+      "Ke 1",
+      "Fy 2",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Brandingenjör"
+  },
+  {
+    "yrkeskod": "civilingenjor",
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Civilingenjör",
+    "yrkesalternativ":     [
+            {
+        "alternativkod": "civilingenjor1",
+        "kurser":         [
+          "Ke 1",
+          "Fy 2",
+          "Ma 4"
+        ]
+      },
+            {
+        "alternativkod": "civilingenjor2",
+        "kurser":         [
+          "Ke 1",
+          "Fy 2",
+          "Ma 4",
+          "Moderna språk - aktuellt språk 3"
+        ]
+      },
+            {
+        "alternativkod": "civilingenjor3",
+        "kurser":         [
+          "Bi 1",
+          "Fy 2",
+          "Ke 2",
+          "Ma 4"
+        ]
+      }
+    ]
+  },
+  {
+    "yrkeskod": "sjukhusfysiker",
+    "kurser":     [
+      "Bi 1",
+      "Fy 2",
+      "Ke 2",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Sjukhusfysiker"
+  },
+  {
+    "yrkeskod": "hortonom",
+    "kurser":     [
+      "Fy 1a/(1b1+1b2)",
+      "Bi 2",
+      "Ke 2",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Hortonom"
+  },
+  {
+    "yrkeskod": "jagmastare",
+    "kurser":     [
+      "Fy 1a/(1b1+1b2)",
+      "Bi 2",
+      "Ke 2",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Jägmästare"
+  },
+  {
+    "yrkeskod": "receptarie",
+    "kurser":     [
+      "Fy 1a/(1b1+1b2)",
+      "Bi 2",
+      "Ke 2",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Receptarie"
+  },
+  {
+    "yrkeskod": "biomedicinskanalytiker",
+    "kurser":     [
+      "Fy 1a/(1b1+1b2)",
+      "Bi 2",
+      "Ke 2",
+      "Ma 3b/3c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Biomedicinsk analytiker"
+  },
+  {
+    "yrkeskod": "lakare",
+    "kurser":     [
+      "Fy 2",
+      "Bi 2",
+      "Ke 2",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Läkare"
+  },
+  {
+    "yrkeskod": "optiker",
+    "kurser":     [
+      "Ma 2a/2b/2c",
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Optiker"
+  },
+  {
+    "yrkeskod": "tandlakare",
+    "kurser":     [
+      "Fy 2",
+      "Bi 2",
+      "Ke 2",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Tandläkare"
+  },
+  {
+    "yrkeskod": "apotekare",
+    "kurser":     [
+      "Fy 2",
+      "Bi 2",
+      "Ke 2",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Apotekare"
+  },
+  {
+    "yrkeskod": "veterinar",
+    "kurser":     [
+      "Fy 2",
+      "Bi 2",
+      "Ke 2",
+      "Ma 4"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Veterinär"
+  },
+  {
+    "yrkeskod": "sjukskoterska",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))",
+      "Sh 1b/(1a1+1a2)",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Sjuksköterska"
+  },
+  {
+    "yrkeskod": "skogsmastare",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))",
+      "Sh 1b/1a1",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1582017853046,
+    "fritext": "Här är en text som gäller för yrket Skogsmästare. ",
+    "yrke": "Skogsmästarexamen"
+  },
+  {
+    "yrkeskod": "skogstekniker",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+1b2))",
+      "Sh 1b/1a1",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Skogstekniker"
+  },
+  {
+    "yrkeskod": "tandhygienist",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))",
+      "Sh 1b/(1a1+1a2)",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Tandhygienist"
+  },
+  {
+    "yrkeskod": "tandtekniker",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))",
+      "Sh 1b/(1a1+1a2)",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Tandtekniker"
+  },
+  {
+    "yrkeskod": "landskapsingenjor",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+1b2))",
+      "Sh 1b/1a1",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Landskapsingenjör"
+  },
+  {
+    "yrkeskod": "tradgardsingenjor",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))",
+      "Sh 1b/1a1",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Trädgårdsingenjör"
+  },
+  {
+    "yrkeskod": "dietist",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))",
+      "Sh 1b/(1a1+1a2)",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Dietist"
+  },
+  {
+    "yrkeskod": "arbetsterapeut",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+1b2))",
+      "Sh 1b/(1a+1a2)",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Arbetsterapeut"
+  },
+  {
+    "yrkeskod": "audionom",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+1b2))",
+      "sh 1b(1a1+1a2)",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Audionom"
+  },
+  {
+    "yrkeskod": "logoped",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))",
+      "Sh 1b/1a1",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Logoped"
+  },
+  {
+    "yrkeskod": "lantmastare",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))",
+      "Sh 1b/1a1",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Lantmästare"
+  },
+  {
+    "yrkeskod": "rontgensjukskoterska",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+ Fy 1a/(1b1+1b2))",
+      "Sh 1b/1a2",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Röntgensjuksköterska"
+  },
+  {
+    "yrkeskod": "djursjukvardare",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))",
+      "Sh 1b/1a1",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Djursjukskötare"
+  },
+  {
+    "yrkeskod": "hippolog",
+    "kurser":     [
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))",
+      "Sh 1b/1a1",
+      "Ma 2a/2b/2c"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Hippolog"
+  },
+  {
+    "yrkeskod": "fysioterapeutsjukgymnast",
+    "kurser":     [
+      "Idh 1",
+      "Sh 1b/(1a1+1a2)",
+      "Ma 2a/2b/2c",
+      "Nk 2 alt.(Bi 1+Ke 1+Fy 1a/(1b1+1b2))"
+    ],
+    "grundlbeh": "true",
+    "dstimestamp": 1581927307375,
+    "yrke": "Fysioterapeut/Sjukgymnast"
+  }
+
+
+
+
+  ,{
+    "yrkeskod": "amneslarare79bildengelskamusiksvsv2",
+    "yrke": "Ämneslärare 7-9  Bild, Engelska, Musik, Svenska och Svenska som andraspråk",
+    "grundlbeh": "true",
+    "kurser": [
+      "Sh 1b/(1a1+1a2)"
+    ]
+  },
+  
+  {
+    "yrkeskod": "amneslararegydansteater",
+    "yrke": "Ämneslärare gymnasieskolan Dans och Teater",
+    "grundlbeh": "true",
+    "kurser": [
+      "Sh 1b/(1a1+1a2)"
+    ]
+  },
+  
+  {
+    "yrkeskod": "amneslararegyfilosofijuridik",
+    "yrke": "Ämneslärare gymnasieskolan Filosofi och Juridik",
+    "grundlbeh": "true",
+    "kurser": [
+      "Hi 1b/(1a1+1a2)",
+      "Sh 1b/(1a1+1a2)"
+    ]
+  },
+  {
+    "yrkeskod": "amneslararegyforetagsekonomi",
+    "yrke": "Ämneslärare gy Företagsekonomi",
+    "grundlbeh": "true",
+    "kurser": [
+      "Ma 3b/3c",
+      "Sh 1b/(1a1+1a2)"
+    ]
+  },
+  {
+    "yrkeskod": "amneslararehistoriareligion",
+    "yrke": "Ämneslärare 7-9 Historia och Religion",
+    "grundlbeh": "true",
+    "kurser": [
+      "Hi 1b/(1a1+1a2)",
+      "Sh 1b/(1a1+1a2)"
+    ]
+  }
+]

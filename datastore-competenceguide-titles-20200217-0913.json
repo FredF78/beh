@@ -399,7 +399,7 @@
   "yrke": "Ämneslärare Modersmål"
 },
 {
-  "yrkeskod": "amneslararegrekiska",
+  "yrkeskod": "amneslararegygrekiska",
   "kurser": [
     "Sh 1b/(1a1+1a2)",
     "Klassisk grekiska - språk och kultur 2"
@@ -780,4 +780,50 @@
 
   "yrke": "Jurist"
 }
+
+
+
+,{
+  "yrkeskod": "amneslarare79bildengelskamusiksvsv2",
+  "yrke": "Ämneslärare 7-9  Bild, Engelska, Musik, Svenska och Svenska som andraspråk",
+  "grundlbeh": "true",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)"
+  ]
+},
+
+{
+  "yrkeskod": "amneslararegydansteater",
+  "yrke": "Ämneslärare gymnasieskolan Dans och Teater",
+  "grundlbeh": "true",
+  "kurser": [
+    "Sh 1b/(1a1+1a2)"
+  ]
+},
+
+{
+  "yrkeskod": "amneslararegyfilosofijuridik",
+  "yrke": "Ämneslärare gymnasieskolan Filosofi och Juridik",
+  "grundlbeh": "true",
+  "kurser": [
+    "Hi 1b/(1a1+1a2)",
+    "Sh 1b/(1a1+1a2)"
+  ]
+}
+
+// ta bort yrket filosofi
+// ta bort yrket juridik
+// ta bort yrket amneslarareforetagsekonomi
+
+,
+{
+  "yrkeskod": "amneslararegyforetagsekonomi",
+  "yrke": "Ämneslärare gy Företagsekonomi",
+  "grundlbeh": "true",
+  "kurser": [
+    "Ma 3b/3c",
+    "Sh 1b/(1a1+1a2)"
+  ]
+}
+
 ]
